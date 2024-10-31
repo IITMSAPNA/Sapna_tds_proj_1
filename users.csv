@@ -1,359 +1,359 @@
-login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-AlexGyver,Alex,,Moscow,alex@alexgyver.ru,,"Инженер, изобретатель, ардуинщик, блогер, любитель котиков",147,3314,0,2016-08-17T22:15:28Z
-carlcastanas,Carl Andrew Castañas,ICREATECHS,Moscow,,True,,56,2858,3,2021-08-17T07:52:33Z
-sergeyshaykhullin,Sergey Shaykhullin,,Moscow,,,Kubernetes 👀 .NET 👀 Rust 👀 Next.js,16,1985,3,2019-01-23T16:40:07Z
-alexey-goloburdin,Alexey Goloburdin,"TO.DIGITAL, SALESBEAT.PRO, DIGITALIZE.TEAM","Moscow, Russia",sterx@rl6.ru,,,27,1853,0,2012-06-26T20:23:25Z
-richardroberti,Richard Roberti,E CORP,"Moscow, Russia",,,DevOps,4,1780,4,2023-01-27T22:09:59Z
-ksemaev,Kirill Semaev,,Moscow,k.semaev@gmail.com,,,11,1763,1,2016-08-07T22:27:46Z
-Robi2810,Rodion,SBERBANK,Moscow,,,DevOps @Sber,31,1676,10242,2022-02-09T14:28:22Z
-yandex,Yandex,,"Moscow, Russia",opensource-support@yandex-team.ru,,Yandex open source projects and technologies,137,1589,0,2014-04-25T20:46:02Z
-PHPTCloud,Yudov Alexei,,Moscow,,,PHP & Golang software backend develeper,7,1338,1205,2020-04-20T06:17:21Z
-tkhirianov,Timofey Khirianov,MOSCOW INSTITUTE OF PHYSICS AND TECHNOLOGY,Moscow,tkhirianov@gmail.com,,I'm a Russian Computer Science MIPT university lecturer creating program examples during lessons. The whole code is open and just some is usable. No warranties.,35,1337,3,2012-06-13T10:06:56Z
-Good4lien,Roman,,"Moscow, Russia",,,programmer/software engineer/gamer/artist/creator,17,1190,3,2019-08-13T01:32:50Z
-esokolov,Evgeny Sokolov,,"Moscow, Russia",sokolov.evg@gmail.com,,,5,1188,0,2012-06-06T10:07:21Z
-yandexdataschool,Yandex School of Data Analysis,,"Moscow, Russia",info@yandexdataschool.com,,,109,1182,0,2015-07-20T14:32:32Z
-mig1023,,,Moscow,email@mig1023.ru,,,21,1030,797,2018-12-01T11:48:09Z
-coffinxp,coffin,,Russia (moscow),,,Security Researcher,11,989,0,2024-07-31T01:54:58Z
-klen,Kirill Klenov,HOME,"Russia, Moscow",horneds@gmail.com,True,More than 10 years of experience in software engineering. Working with different programming languages and in multiple fields of IT for more than 15 years.,140,782,46,2009-06-01T15:04:01Z
-AlariCode,Anton Larichev,PUPLESCHOOL,Moscow,antonlarichev@gmail.com,,Course author and founder of PurpleSchool and PurpleCode,62,734,0,2012-10-10T13:35:20Z
-barancev,Alexei Barantsev,SOFTWARE-TESTING.RU,"Moscow, Russia",barancev@gmail.com,,,69,710,0,2011-02-14T11:03:32Z
-f213,Fedor Borshev,,"Moscow, Russia",,True,Some encouraging stuff,79,699,7,2012-03-31T07:33:32Z
-demidovakatya,Katya Demidova,,Moscow,demidovakatya@gmail.com,,"( ´ ∀ `)ノ～ 🚀
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at,leader_strength
+AlexGyver,Alex,,Moscow,alex@alexgyver.ru,False,"Инженер, изобретатель, ардуинщик, блогер, любитель котиков",147,3314,0,2016-08-17 22:15:28+00:00,3314.0
+carlcastanas,Carl Andrew Castañas,ICREATECHS,Moscow,,True,,56,2858,3,2021-08-17 07:52:33+00:00,714.5
+sergeyshaykhullin,Sergey Shaykhullin,,Moscow,,False,Kubernetes 👀 .NET 👀 Rust 👀 Next.js,16,1985,3,2019-01-23 16:40:07+00:00,496.25
+alexey-goloburdin,Alexey Goloburdin,"TO.DIGITAL, SALESBEAT.PRO, DIGITALIZE.TEAM","Moscow, Russia",sterx@rl6.ru,False,,27,1853,0,2012-06-26 20:23:25+00:00,1853.0
+richardroberti,Richard Roberti,E CORP,"Moscow, Russia",,False,DevOps,4,1780,4,2023-01-27 22:09:59+00:00,356.0
+ksemaev,Kirill Semaev,,Moscow,k.semaev@gmail.com,False,,11,1763,1,2016-08-07 22:27:46+00:00,881.5
+Robi2810,Rodion,SBERBANK,Moscow,,False,DevOps @Sber,31,1676,10242,2022-02-09 14:28:22+00:00,0.16362393829932637
+yandex,Yandex,,"Moscow, Russia",opensource-support@yandex-team.ru,False,Yandex open source projects and technologies,137,1589,0,2014-04-25 20:46:02+00:00,1589.0
+PHPTCloud,Yudov Alexei,,Moscow,,False,PHP & Golang software backend develeper,7,1338,1205,2020-04-20 06:17:21+00:00,1.109452736318408
+tkhirianov,Timofey Khirianov,MOSCOW INSTITUTE OF PHYSICS AND TECHNOLOGY,Moscow,tkhirianov@gmail.com,False,I'm a Russian Computer Science MIPT university lecturer creating program examples during lessons. The whole code is open and just some is usable. No warranties.,35,1337,3,2012-06-13 10:06:56+00:00,334.25
+Good4lien,Roman,,"Moscow, Russia",,False,programmer/software engineer/gamer/artist/creator,17,1190,3,2019-08-13 01:32:50+00:00,297.5
+esokolov,Evgeny Sokolov,,"Moscow, Russia",sokolov.evg@gmail.com,False,,5,1188,0,2012-06-06 10:07:21+00:00,1188.0
+yandexdataschool,Yandex School of Data Analysis,,"Moscow, Russia",info@yandexdataschool.com,False,,109,1182,0,2015-07-20 14:32:32+00:00,1182.0
+mig1023,,,Moscow,email@mig1023.ru,False,,21,1030,797,2018-12-01 11:48:09+00:00,1.2907268170426065
+coffinxp,coffin,,Russia (moscow),,False,Security Researcher,11,989,0,2024-07-31 01:54:58+00:00,989.0
+klen,Kirill Klenov,HOME,"Russia, Moscow",horneds@gmail.com,True,More than 10 years of experience in software engineering. Working with different programming languages and in multiple fields of IT for more than 15 years.,140,782,46,2009-06-01 15:04:01+00:00,16.638297872340427
+AlariCode,Anton Larichev,PUPLESCHOOL,Moscow,antonlarichev@gmail.com,False,Course author and founder of PurpleSchool and PurpleCode,62,734,0,2012-10-10 13:35:20+00:00,734.0
+barancev,Alexei Barantsev,SOFTWARE-TESTING.RU,"Moscow, Russia",barancev@gmail.com,False,,69,710,0,2011-02-14 11:03:32+00:00,710.0
+f213,Fedor Borshev,,"Moscow, Russia",,True,Some encouraging stuff,79,699,7,2012-03-31 07:33:32+00:00,87.375
+demidovakatya,Katya Demidova,,Moscow,demidovakatya@gmail.com,False,"( ´ ∀ `)ノ～ 🚀
 
-💌 t.me/demidovakatya",50,620,52,2013-10-27T19:37:00Z
-farag2,Dmitry Nefedov,,Moscow,nefedovds@ya.ru,,Enthusiast & maintainer of Sophia Script and SophiApp,15,577,1,2015-01-15T09:16:30Z
-4n70w4,Krot Eval,,"Moscow, Russia",,True,Opensource Hater,46,566,21,2018-04-10T16:24:24Z
-iksergey,Сергей Камянецкий,,Moscow,i@ksergey.ru,,,29,565,0,2016-10-26T14:38:56Z
-milabs,Ilya V. Matveychikov,,"Russia, Moscow",matvejchikov@gmail.com,True,"Linux kernel addict, security researcher, reverse engineer",24,489,131,2011-02-18T08:00:11Z
-netology-code,Netology.Code,,Moscow,,,Online coding school,437,455,0,2017-01-11T08:19:45Z
-stek29,Viktor Oreshkin,,"Moscow, Russia",imselfish@stek29.rocks,,,106,426,35,2015-04-05T16:51:46Z
-ivanpopelyshev,Ivan Popelyshev,MADCRAFT.IO,Moscow,ivan.popelyshev@gmail.com,,,77,421,20,2011-03-28T20:02:00Z
-chip-red-pill,uCode Research Team,,Moscow,,,"Research Team Members:                  
+💌 t.me/demidovakatya",50,620,52,2013-10-27 19:37:00+00:00,11.69811320754717
+farag2,Dmitry Nefedov,,Moscow,nefedovds@ya.ru,False,Enthusiast & maintainer of Sophia Script and SophiApp,15,577,1,2015-01-15 09:16:30+00:00,288.5
+4n70w4,Krot Eval,,"Moscow, Russia",,True,Opensource Hater,46,566,21,2018-04-10 16:24:24+00:00,25.727272727272727
+iksergey,Сергей Камянецкий,,Moscow,i@ksergey.ru,False,,29,565,0,2016-10-26 14:38:56+00:00,565.0
+milabs,Ilya V. Matveychikov,,"Russia, Moscow",matvejchikov@gmail.com,True,"Linux kernel addict, security researcher, reverse engineer",24,489,131,2011-02-18 08:00:11+00:00,3.7045454545454546
+netology-code,Netology.Code,,Moscow,,False,Online coding school,437,455,0,2017-01-11 08:19:45+00:00,455.0
+stek29,Viktor Oreshkin,,"Moscow, Russia",imselfish@stek29.rocks,False,,106,426,35,2015-04-05 16:51:46+00:00,11.833333333333334
+ivanpopelyshev,Ivan Popelyshev,MADCRAFT.IO,Moscow,ivan.popelyshev@gmail.com,False,,77,421,20,2011-03-28 20:02:00+00:00,20.047619047619047
+chip-red-pill,uCode Research Team,,Moscow,,False,"Research Team Members:                  
 Dmitry Sklyarov  (@_Dmit), 
 Mark Ermolov  (@_markel___),
-Maxim Goryachy (@h0t)",9,414,0,2020-05-18T20:43:11Z
-bdemeshev,Boris Demeshev,HSE,Moscow,boris.demeshev@gmail.com,,,170,404,1,2011-09-24T05:25:53Z
-Nekotekina,Ivan,,"Russian Federation, Moscow region",nekotekina@gmail.com,,Без оффера не пишите.,47,401,0,2013-11-25T06:22:00Z
-KANKOSHEV,,,"Russia, Moscow ",,,,86,401,0,2017-08-31T07:21:48Z
+Maxim Goryachy (@h0t)",9,414,0,2020-05-18 20:43:11+00:00,414.0
+bdemeshev,Boris Demeshev,HSE,Moscow,boris.demeshev@gmail.com,False,,170,404,1,2011-09-24 05:25:53+00:00,202.0
+Nekotekina,Ivan,,"Russian Federation, Moscow region",nekotekina@gmail.com,False,Без оффера не пишите.,47,401,0,2013-11-25 06:22:00+00:00,401.0
+KANKOSHEV,,,"Russia, Moscow ",,False,,86,401,0,2017-08-31 07:21:48+00:00,401.0
 tazjin,,YANDEX && @TVLFYI,Moscow,mail@tazj.in,True,"computers. most of my code is on code.tvl.fyi.
 
-ex-@deepmind, ex-@google, ex-@spotify and so on.",129,395,156,2012-03-19T13:30:35Z
-veged,Sergey Berezhnoy,"YANDEX, VP, DEVELOPER RELATIONS","Moscow, Russia",veged@ya.ru,,"Fais ce que dois, advienne, que pourra!",82,395,75,2008-06-28T12:00:55Z
-Irina-Smol,Irina,,"Moscow, Russia",Smolenskaya2002@yandex.ru,,"Programming, Data Science, Big Data, ML",62,384,464,2022-08-25T17:42:05Z
-nikita-volkov,Nikita Volkov,,"Moscow, Russia",nikita.y.volkov@mail.ru,,"Haskeller, entrepreneur.",262,382,2,2012-03-21T13:26:16Z
-SerafimArts,Kirill Nesmeyanov,BATTLESTATE GAMES,Moscow,nesk@xakep.ru,,Creator of @railt and @phplrt. PHP Russia program committee member. Jedi of PHP and OpenSource (OSS) enthusiast.,84,380,43,2012-10-01T06:19:42Z
-YaLTeR,Ivan Molodetskikh,,Moscow,yalterz@gmail.com,,,123,380,4,2012-05-30T16:34:21Z
-anna-dm,Anna Frolova ,,Moscow,,,"Hey!🖤 I'm Anna, Junior Front-End Developer | HTML | CSS | JAVASCRIPT| REACT⚛️|
-",19,376,542,2021-02-03T20:31:58Z
-maxlapshin,Max Lapshin,,"Moscow, Russia",max@maxidoors.ru,,,47,371,5,2008-04-03T14:29:30Z
-ktaranov,Konstantin Taranov,,Moscow,kast218@gmail.com,True,Data Scientist and Database Developer,846,367,20,2014-01-21T13:38:06Z
-aigoncharov,Andrey Goncharov,,"Moscow, Russia",andrey@goncharov.page,True,ML-padawan at Skoltech. Ex-Meta SWE. GaTech OMSCS graduate. UK Global Talent alumni.,107,365,3,2015-06-08T09:02:29Z
-Friend-LGA,Grigorii Lutkov,,"Moscow, Russia",Friend.LGA@gmail.com,,Software Engineer,45,365,9,2013-11-09T17:38:48Z
-poma,Roman Semenov,PEPPERSEC,"Moscow, Russia",semenov.roma@gmail.com,True,Currently working on zkSNARKs and Plasma implementation for Ethereum,114,352,4,2012-08-07T12:02:39Z
-catamphetamine,Nikolay,,"Moscow, Mother Russia",,True,"Because GitHub, Inc. has abruptly banned my account (and all my libraries) without any notice, I had to move to GitLab: https://gitlab.com/catamphetamine",96,344,6,2010-11-11T10:52:19Z
-VladimirBalun,Balun Vladimir,YANDEX,"Russia, Moscow",vladimirbalun@yandex.ru,,26 years old - C++ / Go developer,24,327,7,2017-05-01T15:40:06Z
-unicfdlab,UniCFD,ISP RAS,Moscow,,,UniCFD Web-laboratory was established in ISP RAS (www.ispras.ru) in 2011 to develop and spread scientific open source software in Russia.,41,309,35,2015-08-24T12:59:06Z
-jirfag,Denis Isaev,YANDEX,"Russia, Moscow",idenx@yandex.com,True,Eng Director at Yandex Cloud. Author of golangci-lint.,74,309,42,2013-06-08T15:40:27Z
-webmakaka,Marley,,"Russia, Moscow",a3333333@gmail.com,True,Looking for a Self-Driving car / Robotics project on position Dev / MLOPS  with relocation from Russia.,146,297,0,2015-01-02T13:15:38Z
-obenjiro,Alexey Okhrimenko,YANDEX,Moscow,ai_boy@live.ru,True,Ex AngularMoscow Organizer. Author of Russian documentation http://angular24.ru and twitter account AngularRussia,80,296,7,2012-05-21T17:19:10Z
-pauljamm,Pavel Selivanov,YANDEX-CLOUD,"Russia, Moscow",,,,15,296,1,2019-07-12T15:18:51Z
-funny-falcon,Sokolov Yura,,"Moscow, Russia",funny.falcon@gmail.com,,,127,294,26,2010-04-22T00:41:53Z
-archercreat,Pavel,,Moscow,,,,37,284,63,2018-07-23T10:11:46Z
-mahenzon,Suren Khorenyan,VKCOM; EX @MTS-AI; EX @CLAIMERAPP; EX @ADCOMBO,Moscow,surenkhorenyan@gmail.com,,Python 3 backend developer,96,282,3,2016-08-02T22:39:28Z
-geffy,Mikhail Trofimov,,Moscow,,,,12,281,12,2014-06-23T16:46:15Z
-Webzarium,Webzar,AP - 3 METRO,Moscow,,,novice programmer,12,272,468,2023-01-05T15:20:48Z
-dreddsa5dies,Viktor Solovev,,Moscow,viktor.vladimirovich.solovev@gmail.com,,"Life, Liberty and the Pursuit of Happiness",36,267,21,2012-10-31T10:34:43Z
-EvilFreelancer,Pavel Zloi,,Moscow,ef@drteam.rocks,True,"Seasoned milord-level programmer: PHP, Python, AI, Machine Learning, Go, Kubernetes.",133,266,98,2014-10-08T18:00:43Z
-arepina,Anastasia Repina,YANDEX,"Russia, Moscow",anastasiya.repina2012@yandex.ru,True,,47,262,3,2016-01-30T15:58:22Z
-kostja,Konstantin Osipov,SCYLLADB,Moscow,,,Work on @scylladb. Ex. CTO of Tarantool; Ex. server runtime team lead at MySQL,38,249,4,2010-11-15T21:38:10Z
-n01z3,Artur Kuzin,EQVILENT,Moscow,,,"Head of DL, Eqvilent",24,249,10,2014-05-16T10:20:37Z
+ex-@deepmind, ex-@google, ex-@spotify and so on.",129,395,156,2012-03-19 13:30:35+00:00,2.515923566878981
+veged,Sergey Berezhnoy,"YANDEX, VP, DEVELOPER RELATIONS","Moscow, Russia",veged@ya.ru,False,"Fais ce que dois, advienne, que pourra!",82,395,75,2008-06-28 12:00:55+00:00,5.197368421052632
+Irina-Smol,Irina,,"Moscow, Russia",Smolenskaya2002@yandex.ru,False,"Programming, Data Science, Big Data, ML",62,384,464,2022-08-25 17:42:05+00:00,0.8258064516129032
+nikita-volkov,Nikita Volkov,,"Moscow, Russia",nikita.y.volkov@mail.ru,False,"Haskeller, entrepreneur.",262,382,2,2012-03-21 13:26:16+00:00,127.33333333333333
+SerafimArts,Kirill Nesmeyanov,BATTLESTATE GAMES,Moscow,nesk@xakep.ru,False,Creator of @railt and @phplrt. PHP Russia program committee member. Jedi of PHP and OpenSource (OSS) enthusiast.,84,380,43,2012-10-01 06:19:42+00:00,8.636363636363637
+YaLTeR,Ivan Molodetskikh,,Moscow,yalterz@gmail.com,False,,123,380,4,2012-05-30 16:34:21+00:00,76.0
+anna-dm,Anna Frolova ,,Moscow,,False,"Hey!🖤 I'm Anna, Junior Front-End Developer | HTML | CSS | JAVASCRIPT| REACT⚛️|
+",19,376,542,2021-02-03 20:31:58+00:00,0.6924493554327809
+maxlapshin,Max Lapshin,,"Moscow, Russia",max@maxidoors.ru,False,,47,371,5,2008-04-03 14:29:30+00:00,61.833333333333336
+ktaranov,Konstantin Taranov,,Moscow,kast218@gmail.com,True,Data Scientist and Database Developer,846,367,20,2014-01-21 13:38:06+00:00,17.476190476190474
+aigoncharov,Andrey Goncharov,,"Moscow, Russia",andrey@goncharov.page,True,ML-padawan at Skoltech. Ex-Meta SWE. GaTech OMSCS graduate. UK Global Talent alumni.,107,365,3,2015-06-08 09:02:29+00:00,91.25
+Friend-LGA,Grigorii Lutkov,,"Moscow, Russia",Friend.LGA@gmail.com,False,Software Engineer,45,365,9,2013-11-09 17:38:48+00:00,36.5
+poma,Roman Semenov,PEPPERSEC,"Moscow, Russia",semenov.roma@gmail.com,True,Currently working on zkSNARKs and Plasma implementation for Ethereum,114,352,4,2012-08-07 12:02:39+00:00,70.4
+catamphetamine,Nikolay,,"Moscow, Mother Russia",,True,"Because GitHub, Inc. has abruptly banned my account (and all my libraries) without any notice, I had to move to GitLab: https://gitlab.com/catamphetamine",96,344,6,2010-11-11 10:52:19+00:00,49.142857142857146
+VladimirBalun,Balun Vladimir,YANDEX,"Russia, Moscow",vladimirbalun@yandex.ru,False,26 years old - C++ / Go developer,24,327,7,2017-05-01 15:40:06+00:00,40.875
+unicfdlab,UniCFD,ISP RAS,Moscow,,False,UniCFD Web-laboratory was established in ISP RAS (www.ispras.ru) in 2011 to develop and spread scientific open source software in Russia.,41,309,35,2015-08-24 12:59:06+00:00,8.583333333333334
+jirfag,Denis Isaev,YANDEX,"Russia, Moscow",idenx@yandex.com,True,Eng Director at Yandex Cloud. Author of golangci-lint.,74,309,42,2013-06-08 15:40:27+00:00,7.186046511627907
+webmakaka,Marley,,"Russia, Moscow",a3333333@gmail.com,True,Looking for a Self-Driving car / Robotics project on position Dev / MLOPS  with relocation from Russia.,146,297,0,2015-01-02 13:15:38+00:00,297.0
+obenjiro,Alexey Okhrimenko,YANDEX,Moscow,ai_boy@live.ru,True,Ex AngularMoscow Organizer. Author of Russian documentation http://angular24.ru and twitter account AngularRussia,80,296,7,2012-05-21 17:19:10+00:00,37.0
+pauljamm,Pavel Selivanov,YANDEX-CLOUD,"Russia, Moscow",,False,,15,296,1,2019-07-12 15:18:51+00:00,148.0
+funny-falcon,Sokolov Yura,,"Moscow, Russia",funny.falcon@gmail.com,False,,127,294,26,2010-04-22 00:41:53+00:00,10.88888888888889
+archercreat,Pavel,,Moscow,,False,,37,284,63,2018-07-23 10:11:46+00:00,4.4375
+mahenzon,Suren Khorenyan,VKCOM; EX @MTS-AI; EX @CLAIMERAPP; EX @ADCOMBO,Moscow,surenkhorenyan@gmail.com,False,Python 3 backend developer,96,282,3,2016-08-02 22:39:28+00:00,70.5
+geffy,Mikhail Trofimov,,Moscow,,False,,12,281,12,2014-06-23 16:46:15+00:00,21.615384615384617
+Webzarium,Webzar,AP - 3 METRO,Moscow,,False,novice programmer,12,272,468,2023-01-05 15:20:48+00:00,0.579957356076759
+dreddsa5dies,Viktor Solovev,,Moscow,viktor.vladimirovich.solovev@gmail.com,False,"Life, Liberty and the Pursuit of Happiness",36,267,21,2012-10-31 10:34:43+00:00,12.136363636363637
+EvilFreelancer,Pavel Zloi,,Moscow,ef@drteam.rocks,True,"Seasoned milord-level programmer: PHP, Python, AI, Machine Learning, Go, Kubernetes.",133,266,98,2014-10-08 18:00:43+00:00,2.686868686868687
+arepina,Anastasia Repina,YANDEX,"Russia, Moscow",anastasiya.repina2012@yandex.ru,True,,47,262,3,2016-01-30 15:58:22+00:00,65.5
+kostja,Konstantin Osipov,SCYLLADB,Moscow,,False,Work on @scylladb. Ex. CTO of Tarantool; Ex. server runtime team lead at MySQL,38,249,4,2010-11-15 21:38:10+00:00,49.8
+n01z3,Artur Kuzin,EQVILENT,Moscow,,False,"Head of DL, Eqvilent",24,249,10,2014-05-16 10:20:37+00:00,22.636363636363637
 DenisIzmaylov,Denis Izmaylov,"AXEPT, @STARTUPMAKERS","Moscow, New York",,True,"16+ years of web and software development. 
 
-Isomorphic React.js apps, Redux, Relay, ApolloQL, React Native, Node.js, Kubernetes, Microservices, PostgreSQL.",104,244,172,2012-04-29T18:40:08Z
-alexbatalov,Alexander Batalov,,Moscow,,True,,16,240,0,2009-12-28T11:00:20Z
-tsergeytovarov,Серёжа,SKILLBOX,"Russia, Moscow",tovarov.piter@gmail.com,True,Программный директор направления программирования в Skillbox,75,237,17,2013-03-19T03:30:45Z
-RAUH-WRLD,Ilya Smirnov,CONTACT ME IF YOU'RE INTERESTED IN HIRING...,"Russia, Moscow",ilyasmirnov20060506@gmail.com,,"Web Front-end developer.
-(Learning Back-end). React & TypeScript developer. Trying to become FullStack. 18 yrs old. Student.",60,231,457,2020-07-08T09:36:12Z
+Isomorphic React.js apps, Redux, Relay, ApolloQL, React Native, Node.js, Kubernetes, Microservices, PostgreSQL.",104,244,172,2012-04-29 18:40:08+00:00,1.4104046242774566
+alexbatalov,Alexander Batalov,,Moscow,,True,,16,240,0,2009-12-28 11:00:20+00:00,240.0
+tsergeytovarov,Серёжа,SKILLBOX,"Russia, Moscow",tovarov.piter@gmail.com,True,Программный директор направления программирования в Skillbox,75,237,17,2013-03-19 03:30:45+00:00,13.166666666666666
+RAUH-WRLD,Ilya Smirnov,CONTACT ME IF YOU'RE INTERESTED IN HIRING...,"Russia, Moscow",ilyasmirnov20060506@gmail.com,False,"Web Front-end developer.
+(Learning Back-end). React & TypeScript developer. Trying to become FullStack. 18 yrs old. Student.",60,231,457,2020-07-08 09:36:12+00:00,0.5043668122270742
 FSystem88,FSystem88,NONE,Moscow,,True,"I'm tired of fighting.
-I'm starting to kill",35,230,17,2018-07-18T10:03:48Z
-ferrine,Maxim Kochurov,MSU ECONOMICS / SKOLTECH CS,Moscow,,,"Researcher @ PyMC Labs; MSU/Skoltech; Core Dev @ PyMC, Geoopt",80,227,4,2015-03-29T11:09:13Z
+I'm starting to kill",35,230,17,2018-07-18 10:03:48+00:00,12.777777777777779
+ferrine,Maxim Kochurov,MSU ECONOMICS / SKOLTECH CS,Moscow,,False,"Researcher @ PyMC Labs; MSU/Skoltech; Core Dev @ PyMC, Geoopt",80,227,4,2015-03-29 11:09:13+00:00,45.4
 vslinko,Viacheslav Slinko,CIAN.RU,"Russia, Moscow",me@vslinko.com,True,"👨‍💻 Tech Lead @ cian.ru
 🕸 Web Technologies Expert
-⏳ 15 years in IT",285,226,0,2010-02-18T07:29:18Z
-igorsimdyanov,Игорь Симдянов,НЕТОЛОГИЯ (EDTECH),Moscow,igorsimdyanov@gmail.com,,"Программист с 20 летним стажем, автор двух десятков книг по веб-программированию и базам данных.",26,224,9,2012-11-27T10:36:30Z
-dfilatov,Filatov Dmitry,YANDEX,Moscow,dfilatov@inbox.ru,True,,55,217,6,2009-03-27T19:24:44Z
-mgrachev,Grachev Mikhail,,Moscow,work@mgrachev.com,True,"🚀 Senior Software Engineer 🐳 DevOps Engineer 😍 Open Source Activist & Contributor 🎤 Speaker 🤩 Core-contributor: @dotenv-linter, @reviewdog, @goreleaser 🔥",19,217,42,2011-03-31T07:27:04Z
-Maks00071,Maks Korystov,GLOWBYTE,Moscow,,,,11,216,355,2019-07-04T14:54:06Z
-ivmai,Ivan Maidanski,SAMSUNG,"Moscow, Russia",ivmai@mail.ru,,,52,214,14,2010-10-30T06:54:13Z
-true-grue,Peter Sovietov,,"Moscow, Russia",,,,36,212,18,2013-04-06T15:16:51Z
-artbear,Artur Ayukhanov,VANESSA-OPENSOURCE @OSCRIPT-LIBRARY,Moscow,aartbear@gmail.com,,,243,210,159,2012-11-29T11:03:03Z
-disintegration,Grigory Dryapak,OZONRU,"Moscow, Russia",grigory.dryapak@gmail.com,,,6,210,12,2012-11-02T13:04:19Z
-n4kz,Alexander Nazarov,,"Moscow, Russia",,True,,24,207,31,2012-07-28T06:39:05Z
-autowp,Dmitry,HD-TECH,Moscow,autowp@gmail.com,,,78,204,9,2012-09-07T12:31:34Z
-AleksandraAleksandrovna,,RBTH,"MOSCOW, RUSSIAN",,,FrontEnd Developer,33,204,135,2020-04-08T14:09:47Z
-smelukov,Sergey Melyukov,,Moscow,,,,79,201,1,2014-02-11T20:40:05Z
-epogrebnyak,Evgeny Pogrebnyak,"FINANCE AND ECONOMICS DEPARTMENT, MGIMO-ODINTSOVO",Moscow,e.pogrebnyak@gmail.com,True,"Dean at Finec MGIMO, strong interest in  reproducible research and clean code.",160,197,383,2014-10-16T09:31:04Z
-anton-k,Anton Kholomiov,,"Russia, Moscow region, Podolsk",,,,70,196,17,2012-03-01T14:30:19Z
-Wohlstand,Vitaly Novichkov,,"Moscow, Russia",,,"Engineer, C++ Developer and Musician.",88,195,22,2014-02-21T20:15:25Z
-arkuznetsov,Artem Kuznetsov,FIRST BIT,Moscow,arkuznetsov@gmail.com,,,90,194,162,2015-01-29T19:40:16Z
+⏳ 15 years in IT",285,226,0,2010-02-18 07:29:18+00:00,226.0
+igorsimdyanov,Игорь Симдянов,НЕТОЛОГИЯ (EDTECH),Moscow,igorsimdyanov@gmail.com,False,"Программист с 20 летним стажем, автор двух десятков книг по веб-программированию и базам данных.",26,224,9,2012-11-27 10:36:30+00:00,22.4
+dfilatov,Filatov Dmitry,YANDEX,Moscow,dfilatov@inbox.ru,True,,55,217,6,2009-03-27 19:24:44+00:00,31.0
+mgrachev,Grachev Mikhail,,Moscow,work@mgrachev.com,True,"🚀 Senior Software Engineer 🐳 DevOps Engineer 😍 Open Source Activist & Contributor 🎤 Speaker 🤩 Core-contributor: @dotenv-linter, @reviewdog, @goreleaser 🔥",19,217,42,2011-03-31 07:27:04+00:00,5.046511627906977
+Maks00071,Maks Korystov,GLOWBYTE,Moscow,,False,,11,216,355,2019-07-04 14:54:06+00:00,0.6067415730337079
+ivmai,Ivan Maidanski,SAMSUNG,"Moscow, Russia",ivmai@mail.ru,False,,52,214,14,2010-10-30 06:54:13+00:00,14.266666666666667
+true-grue,Peter Sovietov,,"Moscow, Russia",,False,,36,212,18,2013-04-06 15:16:51+00:00,11.157894736842104
+artbear,Artur Ayukhanov,VANESSA-OPENSOURCE @OSCRIPT-LIBRARY,Moscow,aartbear@gmail.com,False,,243,210,159,2012-11-29 11:03:03+00:00,1.3125
+disintegration,Grigory Dryapak,OZONRU,"Moscow, Russia",grigory.dryapak@gmail.com,False,,6,210,12,2012-11-02 13:04:19+00:00,16.153846153846153
+n4kz,Alexander Nazarov,,"Moscow, Russia",,True,,24,207,31,2012-07-28 06:39:05+00:00,6.46875
+autowp,Dmitry,HD-TECH,Moscow,autowp@gmail.com,False,,78,204,9,2012-09-07 12:31:34+00:00,20.4
+AleksandraAleksandrovna,,RBTH,"MOSCOW, RUSSIAN",,False,FrontEnd Developer,33,204,135,2020-04-08 14:09:47+00:00,1.5
+smelukov,Sergey Melyukov,,Moscow,,False,,79,201,1,2014-02-11 20:40:05+00:00,100.5
+epogrebnyak,Evgeny Pogrebnyak,"FINANCE AND ECONOMICS DEPARTMENT, MGIMO-ODINTSOVO",Moscow,e.pogrebnyak@gmail.com,True,"Dean at Finec MGIMO, strong interest in  reproducible research and clean code.",160,197,383,2014-10-16 09:31:04+00:00,0.5130208333333334
+anton-k,Anton Kholomiov,,"Russia, Moscow region, Podolsk",,False,,70,196,17,2012-03-01 14:30:19+00:00,10.88888888888889
+Wohlstand,Vitaly Novichkov,,"Moscow, Russia",,False,"Engineer, C++ Developer and Musician.",88,195,22,2014-02-21 20:15:25+00:00,8.478260869565217
+arkuznetsov,Artem Kuznetsov,FIRST BIT,Moscow,arkuznetsov@gmail.com,False,,90,194,162,2015-01-29 19:40:16+00:00,1.1901840490797546
 glebmachine,Gleb Mikheev,,"Russia, Moscow",glebmachine@gmail.com,True,"
 Full in love in WebDev since 2003.
-Head of Program Committee @ FrontendConf",135,192,69,2012-04-04T07:36:10Z
-rvasily,Vasily Romanov,MAILRU,Moscow,,,Technical manager at @mailru Email Services,10,190,0,2012-05-31T06:45:30Z
-kefirski,Daniil Gavrilov,,Moscow,olavursky@gmail.com,True,The Last AI Bender,38,190,43,2014-08-09T19:15:22Z
-Infarh,Pavel,,Moscow,,,,198,190,17,2011-02-01T21:11:19Z
-worldbeater,Artyom V. Gorchakov,,"Moscow, Russia",worldbeater-dev@yandex.ru,,"Full stack software developer mainly using C#, Python, and TypeScript.",4,185,41,2014-02-22T21:25:05Z
-Bulat-Ziganshin,,,Moscow,bulat.ziganshin@gmail.com,,,46,183,48,2012-05-31T08:33:27Z
-kobezzza,Andrey Kobets,YANDEX,Moscow,kobezzza@gmail.com,,JS Ninja,9,183,22,2011-10-24T20:33:26Z
-qnikst,Alexander Vershilov,CHEOPSLAB,"Moscow, Russia",alexander.vershilov@gmail.com,True,,107,180,10,2009-12-20T19:52:15Z
-lRomul,Ruslan Baikulov,,"Moscow, Russia",,,Deep Learning Engineer,22,177,152,2015-02-21T19:55:17Z
-matyha345,Nikolay Matyukhin,,Moscow,,,"ABOUT ME &
+Head of Program Committee @ FrontendConf",135,192,69,2012-04-04 07:36:10+00:00,2.742857142857143
+rvasily,Vasily Romanov,MAILRU,Moscow,,False,Technical manager at @mailru Email Services,10,190,0,2012-05-31 06:45:30+00:00,190.0
+kefirski,Daniil Gavrilov,,Moscow,olavursky@gmail.com,True,The Last AI Bender,38,190,43,2014-08-09 19:15:22+00:00,4.318181818181818
+Infarh,Pavel,,Moscow,,False,,198,190,17,2011-02-01 21:11:19+00:00,10.555555555555555
+worldbeater,Artyom V. Gorchakov,,"Moscow, Russia",worldbeater-dev@yandex.ru,False,"Full stack software developer mainly using C#, Python, and TypeScript.",4,185,41,2014-02-22 21:25:05+00:00,4.404761904761905
+Bulat-Ziganshin,,,Moscow,bulat.ziganshin@gmail.com,False,,46,183,48,2012-05-31 08:33:27+00:00,3.7346938775510203
+kobezzza,Andrey Kobets,YANDEX,Moscow,kobezzza@gmail.com,False,JS Ninja,9,183,22,2011-10-24 20:33:26+00:00,7.956521739130435
+qnikst,Alexander Vershilov,CHEOPSLAB,"Moscow, Russia",alexander.vershilov@gmail.com,True,,107,180,10,2009-12-20 19:52:15+00:00,16.363636363636363
+lRomul,Ruslan Baikulov,,"Moscow, Russia",,False,Deep Learning Engineer,22,177,152,2015-02-21 19:55:17+00:00,1.1568627450980393
+matyha345,Nikolay Matyukhin,,Moscow,,False,"ABOUT ME &
 
-I'm a Frontend Developer specializing in website development using HTML, CSS, and JavaScript, as well as web applications with React + Vite.",20,176,243,2023-01-30T15:55:31Z
-VBart,Valentin V. Bartenev,WEB SERVER LLC,"Moscow, Russia",vbartenev@gmail.com,,,0,176,0,2012-11-08T13:03:09Z
-miracl1e6,Anastasiia Nikulina,PYMAGIC,Moscow,,,Data Scientist,19,174,0,2018-08-28T10:49:10Z
-K900,,,Moscow,me@0upti.me,True,abyss domain expert,106,174,11,2010-09-03T17:31:10Z
-reo7sp,Oleg Morozenkov,MAILRU,"Moscow, Russia",m@oleg.rocks,,,98,173,65,2012-04-08T14:50:26Z
-deepfire,Kosyrev Serge,,"Moscow, RU",,,"Haskell & bare metal hacker, system builder, technologist. Mountains are my love, and I do running and fasting for life",162,173,27,2010-10-25T07:15:02Z
-foxcpp,Max Mazurov,SHTRAFOVNET.RU,"Moscow, Russia",fox.cpp@disroot.org,,Main developer and sole maintainer of maddy mail server. Co-maintainer of numerous Go email libraries.,70,172,7,2018-03-28T22:27:39Z
-3F,Denis Kuzmin,,"Moscow, Russia",x-3F@outlook.com,,-_*,57,167,4,2013-01-11T18:04:47Z
-ml-mipt,ml-mipt,,Moscow,,,,6,165,0,2016-08-31T12:40:32Z
-nicolas-ivanov,Nicolas,,Moscow,nickolas.ivanov@gmail.com,,"Skoltech'16
-MSU'14",35,163,17,2012-09-03T19:09:40Z
-agricolamz,George Moroz,"LINGUISTIC CONVERGENCE LABORATORY, NRU HSE (HTTPS://ILCL.HSE.RU/EN/)","Russia, Moscow",,,"I'm teaching Linguistics and working on phonetics, linguistic mapping, statistics and indigenous language of the Caucasus",295,163,76,2015-11-21T13:52:33Z
-zelenin,Aleksandr Zelenin,,"Moscow, Russia",aleksandr@zelenin.me,,,33,158,6,2012-02-10T23:38:50Z
-a-milenkin,Aleksander Milenkin,MIPT,Moscow,,,"Do DS every day!
+I'm a Frontend Developer specializing in website development using HTML, CSS, and JavaScript, as well as web applications with React + Vite.",20,176,243,2023-01-30 15:55:31+00:00,0.7213114754098361
+VBart,Valentin V. Bartenev,WEB SERVER LLC,"Moscow, Russia",vbartenev@gmail.com,False,,0,176,0,2012-11-08 13:03:09+00:00,176.0
+miracl1e6,Anastasiia Nikulina,PYMAGIC,Moscow,,False,Data Scientist,19,174,0,2018-08-28 10:49:10+00:00,174.0
+K900,,,Moscow,me@0upti.me,True,abyss domain expert,106,174,11,2010-09-03 17:31:10+00:00,14.5
+reo7sp,Oleg Morozenkov,MAILRU,"Moscow, Russia",m@oleg.rocks,False,,98,173,65,2012-04-08 14:50:26+00:00,2.621212121212121
+deepfire,Kosyrev Serge,,"Moscow, RU",,False,"Haskell & bare metal hacker, system builder, technologist. Mountains are my love, and I do running and fasting for life",162,173,27,2010-10-25 07:15:02+00:00,6.178571428571429
+foxcpp,Max Mazurov,SHTRAFOVNET.RU,"Moscow, Russia",fox.cpp@disroot.org,False,Main developer and sole maintainer of maddy mail server. Co-maintainer of numerous Go email libraries.,70,172,7,2018-03-28 22:27:39+00:00,21.5
+3F,Denis Kuzmin,,"Moscow, Russia",x-3F@outlook.com,False,-_*,57,167,4,2013-01-11 18:04:47+00:00,33.4
+ml-mipt,ml-mipt,,Moscow,,False,,6,165,0,2016-08-31 12:40:32+00:00,165.0
+nicolas-ivanov,Nicolas,,Moscow,nickolas.ivanov@gmail.com,False,"Skoltech'16
+MSU'14",35,163,17,2012-09-03 19:09:40+00:00,9.055555555555555
+agricolamz,George Moroz,"LINGUISTIC CONVERGENCE LABORATORY, NRU HSE (HTTPS://ILCL.HSE.RU/EN/)","Russia, Moscow",,False,"I'm teaching Linguistics and working on phonetics, linguistic mapping, statistics and indigenous language of the Caucasus",295,163,76,2015-11-21 13:52:33+00:00,2.116883116883117
+zelenin,Aleksandr Zelenin,,"Moscow, Russia",aleksandr@zelenin.me,False,,33,158,6,2012-02-10 23:38:50+00:00,22.571428571428573
+a-milenkin,Aleksander Milenkin,MIPT,Moscow,,False,"Do DS every day!
 
 ✅ Блог:
 
-https://t.me/datafeeling",80,157,14,2020-02-09T14:49:49Z
-appany-it,AppAny,APPANY,Moscow,,,AppAny,2,157,30,2020-06-18T22:23:12Z
-avdeev,Alexey Avdeev,MISH-DESIGN,Moscow,aad.jerry@gmail.com,,"CTO in @mish-design team, organizer of @it52-jsnn. I'm fond of tourism, code-review and refactoring.",61,157,191,2011-12-05T12:49:58Z
-TDenisM,Denis Trunov,,"Moscow, Russia",,,,18,153,0,2019-03-27T15:41:53Z
-a1exdandy,Alexey Kovrizhnykh,,"Russia, Moscow",,,,14,152,24,2014-04-05T08:11:27Z
-Naltox,Narek Abovyan,,"Russia, Moscow",xeroxaltox@gmail.com,True,,22,151,8,2014-09-21T10:29:38Z
-ded32,Ilya Dedinsky,MIPT (PHYSTECH),"Moscow, Russia",mail@ded32.ru,,__declspec (meow);,15,151,25,2012-08-16T00:40:34Z
-DobbyWanKenoby,Vasiliy Usov,,Moscow,alkal@ya.ru,,"iOS Developer, Books author",19,150,2,2016-02-22T20:03:14Z
-koroteevmv,Michail Koroteev,FINANCIAL UNIVERSITY,"Moscow, Russia",,,,14,149,0,2011-09-25T18:36:15Z
-kuggaa,Kuggaa Cuckoo Choo Choo,BARNABY JACKS HACKS,"moscow, Ru",,,Fruity Cyber Kiber Armor Berkut.  Ulstrashit.  Humpty Dumpty sat on server.  FSTEC Crackers.  Helping Vegas Non Profit League.  FSB Russia can help USA Fat Bud,321,145,1040,2014-07-24T23:17:49Z
-ac3ss0r,acessor,,"Russia, Moscow",,,Mastering the art of exploiting and finding workarounds requires a unique mindset.,21,144,42,2022-01-23T21:09:14Z
-alno,Alexey Noskov,YANDEX,Moscow,alexey.noskov@gmail.com,True,,59,143,15,2008-10-24T05:47:27Z
-kolkov,Andrey Kolkov,FREICON LTD.,Moscow,a.kolkov@gmail.com,,,59,141,10,2013-03-01T17:58:49Z
-larsnovikov,Lars Novikov,,"Russia, Moscow",larsnovikov@yandex.ru,,Make bugs since 2010,12,141,1002,2016-05-25T07:02:32Z
-sochix,Ilia Pirozhenko,,Moscow,,True,I’m tech entrepreneur and polyglot programmer,19,140,20,2012-03-15T08:54:15Z
-3Hren,Evgeny Safronov,SONM,Moscow,division494@gmail.com,True,"ex-@yandex, now @sonm-io",89,140,3,2011-08-09T20:46:38Z
-FaxWeb7,FaxWeb,,Russia Moscow,,,,22,140,1,2021-03-14T14:06:11Z
-Elytrium,Elytrium,,"Moscow, Russia",contact@elytrium.net,,Modern and simple cloud platform.,26,139,0,2020-09-11T19:31:41Z
-Melevir,Ilya Lebedev,ZIPSALE,Moscow,melevir@gmail.com,,,28,137,0,2012-03-01T12:29:39Z
-StockSharp,StockSharp,,"Russia, Moscow",github@stocksharp.com,,"Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options).",7,137,0,2014-12-08T07:47:30Z
-hhru,HeadHunter,,Europe/Moscow,,,,123,136,0,2009-11-13T09:52:23Z
-Satont,,,"Russia, Moscow",,,"Golang, Node.js software engineer.",147,135,20,2018-08-24T14:01:38Z
+https://t.me/datafeeling",80,157,14,2020-02-09 14:49:49+00:00,10.466666666666667
+appany-it,AppAny,APPANY,Moscow,,False,AppAny,2,157,30,2020-06-18 22:23:12+00:00,5.064516129032258
+avdeev,Alexey Avdeev,MISH-DESIGN,Moscow,aad.jerry@gmail.com,False,"CTO in @mish-design team, organizer of @it52-jsnn. I'm fond of tourism, code-review and refactoring.",61,157,191,2011-12-05 12:49:58+00:00,0.8177083333333334
+TDenisM,Denis Trunov,,"Moscow, Russia",,False,,18,153,0,2019-03-27 15:41:53+00:00,153.0
+a1exdandy,Alexey Kovrizhnykh,,"Russia, Moscow",,False,,14,152,24,2014-04-05 08:11:27+00:00,6.08
+Naltox,Narek Abovyan,,"Russia, Moscow",xeroxaltox@gmail.com,True,,22,151,8,2014-09-21 10:29:38+00:00,16.77777777777778
+ded32,Ilya Dedinsky,MIPT (PHYSTECH),"Moscow, Russia",mail@ded32.ru,False,__declspec (meow);,15,151,25,2012-08-16 00:40:34+00:00,5.8076923076923075
+DobbyWanKenoby,Vasiliy Usov,,Moscow,alkal@ya.ru,False,"iOS Developer, Books author",19,150,2,2016-02-22 20:03:14+00:00,50.0
+koroteevmv,Michail Koroteev,FINANCIAL UNIVERSITY,"Moscow, Russia",,False,,14,149,0,2011-09-25 18:36:15+00:00,149.0
+kuggaa,Kuggaa Cuckoo Choo Choo,BARNABY JACKS HACKS,"moscow, Ru",,False,Fruity Cyber Kiber Armor Berkut.  Ulstrashit.  Humpty Dumpty sat on server.  FSTEC Crackers.  Helping Vegas Non Profit League.  FSB Russia can help USA Fat Bud,321,145,1040,2014-07-24 23:17:49+00:00,0.13928914505283382
+ac3ss0r,acessor,,"Russia, Moscow",,False,Mastering the art of exploiting and finding workarounds requires a unique mindset.,21,144,42,2022-01-23 21:09:14+00:00,3.3488372093023258
+alno,Alexey Noskov,YANDEX,Moscow,alexey.noskov@gmail.com,True,,59,143,15,2008-10-24 05:47:27+00:00,8.9375
+kolkov,Andrey Kolkov,FREICON LTD.,Moscow,a.kolkov@gmail.com,False,,59,141,10,2013-03-01 17:58:49+00:00,12.818181818181818
+larsnovikov,Lars Novikov,,"Russia, Moscow",larsnovikov@yandex.ru,False,Make bugs since 2010,12,141,1002,2016-05-25 07:02:32+00:00,0.14057826520438685
+sochix,Ilia Pirozhenko,,Moscow,,True,I’m tech entrepreneur and polyglot programmer,19,140,20,2012-03-15 08:54:15+00:00,6.666666666666667
+3Hren,Evgeny Safronov,SONM,Moscow,division494@gmail.com,True,"ex-@yandex, now @sonm-io",89,140,3,2011-08-09 20:46:38+00:00,35.0
+FaxWeb7,FaxWeb,,Russia Moscow,,False,,22,140,1,2021-03-14 14:06:11+00:00,70.0
+Elytrium,Elytrium,,"Moscow, Russia",contact@elytrium.net,False,Modern and simple cloud platform.,26,139,0,2020-09-11 19:31:41+00:00,139.0
+Melevir,Ilya Lebedev,ZIPSALE,Moscow,melevir@gmail.com,False,,28,137,0,2012-03-01 12:29:39+00:00,137.0
+StockSharp,StockSharp,,"Russia, Moscow",github@stocksharp.com,False,"Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options).",7,137,0,2014-12-08 07:47:30+00:00,137.0
+hhru,HeadHunter,,Europe/Moscow,,False,,123,136,0,2009-11-13 09:52:23+00:00,136.0
+Satont,,,"Russia, Moscow",,False,"Golang, Node.js software engineer.",147,135,20,2018-08-24 14:01:38+00:00,6.428571428571429
 leffff,Lev Novitskiy,NUST MISIS / SBER AI / AIRI,"Moscow, Russia",,True,"Deep Learning Researcher
-",43,135,125,2019-11-12T05:53:23Z
-dzavalishin,Dmitry Zavalishin,DZ SYSTEMS,"Moscow, Russia",dz@dz.ru,,,50,134,14,2015-03-13T11:18:51Z
-smsmancom,SMS MAN,SMS MAN,Moscow,,,SMS MAN Company,4,134,0,2021-08-04T11:01:41Z
-luta-wolf,Denis,21 SCHOOL (ECOLE 42),Moscow,denis.skrynnikov.job@gmail.com,,Data Engineer.,46,133,40,2019-11-21T16:49:34Z
-yupe,Yupe! team,HTTPS://YUPE.RU,"Russia, Moscow",aopeykin@yandex.ru,True,Build products,14,133,82,2011-03-14T08:15:31Z
-NullTale,Null Tale,,Moscow,,,"⚪♫•*¨*•.¸¸♪🔪❤
-Unity VFX Pixelart and some Creative stuff",18,133,0,2012-03-03T19:27:29Z
-kchibisov,Kirill Chibisov,,"Moscow, Russia",contact@kchibisov.com,True,,46,133,4,2017-04-16T10:47:48Z
-tikerlade,Ivan Kuznetsov,SAINT-PETERSBURG STATE UNIVERSITY,Moscow,,True,ML Engineer @ Yandex | ML Masters degree @ SPbU&YSDA,19,130,17,2017-05-21T12:39:57Z
-mediaexplorer74,Media Explorer,,"Moscow, Russia",mediaexplorer74@hotmail.com,,,270,130,318,2015-04-20T11:43:29Z
+",43,135,125,2019-11-12 05:53:23+00:00,1.0714285714285714
+dzavalishin,Dmitry Zavalishin,DZ SYSTEMS,"Moscow, Russia",dz@dz.ru,False,,50,134,14,2015-03-13 11:18:51+00:00,8.933333333333334
+smsmancom,SMS MAN,SMS MAN,Moscow,,False,SMS MAN Company,4,134,0,2021-08-04 11:01:41+00:00,134.0
+luta-wolf,Denis,21 SCHOOL (ECOLE 42),Moscow,denis.skrynnikov.job@gmail.com,False,Data Engineer.,46,133,40,2019-11-21 16:49:34+00:00,3.2439024390243905
+yupe,Yupe! team,HTTPS://YUPE.RU,"Russia, Moscow",aopeykin@yandex.ru,True,Build products,14,133,82,2011-03-14 08:15:31+00:00,1.6024096385542168
+NullTale,Null Tale,,Moscow,,False,"⚪♫•*¨*•.¸¸♪🔪❤
+Unity VFX Pixelart and some Creative stuff",18,133,0,2012-03-03 19:27:29+00:00,133.0
+kchibisov,Kirill Chibisov,,"Moscow, Russia",contact@kchibisov.com,True,,46,133,4,2017-04-16 10:47:48+00:00,26.6
+tikerlade,Ivan Kuznetsov,SAINT-PETERSBURG STATE UNIVERSITY,Moscow,,True,ML Engineer @ Yandex | ML Masters degree @ SPbU&YSDA,19,130,17,2017-05-21 12:39:57+00:00,7.222222222222222
+mediaexplorer74,Media Explorer,,"Moscow, Russia",mediaexplorer74@hotmail.com,False,,270,130,318,2015-04-20 11:43:29+00:00,0.40752351097178685
 Lasttrader,Lasttrader,BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY,Moscow,,True,"DS, Engineer and Architect. 
 DS for marketing, fintech & engineering. 
 Create algorithms, find patterns and improve them to life.  
-DL & ML in love.",34,130,19,2019-04-05T04:24:23Z
-MikhailKostylev,Mikhail Kostylev,,"Moscow, Russia",,,25 y.o.  iOS Developer,1,128,152,2022-03-03T15:34:17Z
-MoonFox2006,Alex V. Morozov,,"Moscow, Russia",moonfox2006@gmail.com,True,,89,128,0,2017-08-17T15:16:27Z
-Kismuz,Andrew,,Moscow,muzikinae@gmail.com,True,Applied mathematics and machine learning Research and Software Engineer with focus on deep reinforcement learning and quantitative finance domain. ,102,128,9,2016-12-03T14:12:34Z
-rbsgn,Roman Busygin,DODO ENGINEERING,Moscow,,,,8,127,171,2008-12-08T18:39:51Z
-Taritsyn,Andrey Taritsyn,,"Moscow, Russia",taritsyn@gmail.com,True,"Web developer on Microsoft's stack. Author of Bundle Transformer, WebMarkupMin, MSIE JS Engine, JavaScript Engine Switcher, JSMin.NET and LibSass Host.",24,126,30,2010-04-25T08:05:19Z
-mharriso,Julia,ECOLE42,Moscow,,,,21,126,15,2020-04-10T08:18:02Z
-BigKAA,Artur Kryukov,,Moscow,,,,11,125,0,2020-01-19T08:28:08Z
-stascorp,Stas'M Corp.,,"Russia, Moscow",stascorp-center@mail.ru,,,6,125,0,2016-03-06T02:00:01Z
-ZEMUSHKA,Andrey Zimovnov,YANDEX,"Moscow, Russia",zimovnov@gmail.com,,,14,125,3,2013-03-26T13:34:19Z
-akzhan,Akzhan Abdulin,,Moscow,akzhan.abdulin@gmail.com,True,"Release management, Devops, Development.",73,125,3,2009-08-06T12:09:37Z
-RealyUniqueName,Aleksandr Kuzmenko,,"Russia, Moscow",,True,,78,124,0,2012-12-30T22:53:19Z
-Heroes2012,Gulnara Batyrova,,Moscow,,,Hi all. I'll be glad to chat. I study technologies in cryptocurrency,13,122,139,2021-12-19T15:01:31Z
-mpeterv,Peter Melnichenko,,Moscow,mpeterval@gmail.com,,,85,122,15,2013-11-25T15:45:32Z
-GlebPilipenko,Gleb Pilipenka,SBERBANK,Moscow,,,💻 Front-end Developer.,20,121,2,2020-03-14T22:30:07Z
+DL & ML in love.",34,130,19,2019-04-05 04:24:23+00:00,6.5
+MikhailKostylev,Mikhail Kostylev,,"Moscow, Russia",,False,25 y.o.  iOS Developer,1,128,152,2022-03-03 15:34:17+00:00,0.8366013071895425
+MoonFox2006,Alex V. Morozov,,"Moscow, Russia",moonfox2006@gmail.com,True,,89,128,0,2017-08-17 15:16:27+00:00,128.0
+Kismuz,Andrew,,Moscow,muzikinae@gmail.com,True,Applied mathematics and machine learning Research and Software Engineer with focus on deep reinforcement learning and quantitative finance domain. ,102,128,9,2016-12-03 14:12:34+00:00,12.8
+rbsgn,Roman Busygin,DODO ENGINEERING,Moscow,,False,,8,127,171,2008-12-08 18:39:51+00:00,0.7383720930232558
+Taritsyn,Andrey Taritsyn,,"Moscow, Russia",taritsyn@gmail.com,True,"Web developer on Microsoft's stack. Author of Bundle Transformer, WebMarkupMin, MSIE JS Engine, JavaScript Engine Switcher, JSMin.NET and LibSass Host.",24,126,30,2010-04-25 08:05:19+00:00,4.064516129032258
+mharriso,Julia,ECOLE42,Moscow,,False,,21,126,15,2020-04-10 08:18:02+00:00,7.875
+BigKAA,Artur Kryukov,,Moscow,,False,,11,125,0,2020-01-19 08:28:08+00:00,125.0
+stascorp,Stas'M Corp.,,"Russia, Moscow",stascorp-center@mail.ru,False,,6,125,0,2016-03-06 02:00:01+00:00,125.0
+ZEMUSHKA,Andrey Zimovnov,YANDEX,"Moscow, Russia",zimovnov@gmail.com,False,,14,125,3,2013-03-26 13:34:19+00:00,31.25
+akzhan,Akzhan Abdulin,,Moscow,akzhan.abdulin@gmail.com,True,"Release management, Devops, Development.",73,125,3,2009-08-06 12:09:37+00:00,31.25
+RealyUniqueName,Aleksandr Kuzmenko,,"Russia, Moscow",,True,,78,124,0,2012-12-30 22:53:19+00:00,124.0
+Heroes2012,Gulnara Batyrova,,Moscow,,False,Hi all. I'll be glad to chat. I study technologies in cryptocurrency,13,122,139,2021-12-19 15:01:31+00:00,0.8714285714285714
+mpeterv,Peter Melnichenko,,Moscow,mpeterval@gmail.com,False,,85,122,15,2013-11-25 15:45:32+00:00,7.625
+GlebPilipenko,Gleb Pilipenka,SBERBANK,Moscow,,False,💻 Front-end Developer.,20,121,2,2020-03-14 22:30:07+00:00,40.333333333333336
 georgebabayan,George Babayan,ELBRUS CODING BOOTCAMP,Moscow,george@elbrusboot.camp,True,"Full Stack Developer with a passion for JavaScript
- ",21,121,65,2016-07-25T23:36:18Z
-hroff-1902,Andrey Rezvov,FREQTRADE CORE DEV; FRIZZLEAPPS/WHATSITWHATSIT,Moscow,,,,20,121,1,2019-02-04T02:12:22Z
-AstreyaJulia,Yuliya Latysheva,,"Russia, Moscow",,True,11.09.1985,18,120,87,2019-12-02T15:35:10Z
-mishanga,Mikhail Troshev,YANDEX ADS,"Moscow, Russia",mishanga@yandex-team.ru,,,47,120,56,2010-12-13T15:05:30Z
-moteus,Alexey Melnichuk,,"Russia, Moscow",alexeymelnichuck@gmail.com,,,150,119,11,2012-06-01T09:23:12Z
-ZakharDay,ZakharDay,HEADEXCHANGE @HSEADC,"Moscow, Russia",zakhar.day@gmail.com,,"Head of the Chair of Design and Programming of the HSE (National Research University Higher School of Economics) Art And Design School, new media enthusiast",138,119,76,2011-05-28T08:41:32Z
-stamm,Rustam Zagirov,OZON,"Moscow, Russia",rustam@zagirov.name,,,120,116,209,2010-05-19T09:42:23Z
-dariaemacs,Daria Emacs,,Moscow,dariaemacs@gmail.com,,"Mathematician-programmer, C++ software developer.
-",15,116,2,2016-09-30T10:46:22Z
-quen0n,Victor Nikitchuk,,Moscow,,,,17,115,3,2014-12-05T18:52:50Z
-alvassin,Alexander Vasin,EDADEAL,Moscow,hi@alvass.in,,,27,114,40,2012-03-03T19:32:07Z
-dvmazur,Denis Mazur,,"Moscow, Russia",denismazur8@gmail.com,,"switch stance, face plant; napalm fire starters; flatlander, plug puller; nose dive turbulence chartered",43,113,38,2016-09-30T11:13:25Z
-xakepru,XakepRU,GLC,"Moscow, Russia",,,,35,112,0,2014-05-05T11:18:11Z
-MarinaPaley,Васильева Марина Алексеевна,MIIT,Moscow,marina_paley@mail.ru,,"Доцент кафедры УиЗИ
-",39,112,4,2017-04-06T19:11:01Z
-voischev,Ivan Voischev,YANDEX,"Russia, Moscow",voischev.ivan@ya.ru,True,Developer at @yandex,10,112,59,2012-03-07T06:03:55Z
-KOLANICH,KOLANICH,KOLANICH INC.,"Moscow, Russia",,True,,10,112,125,2010-04-09T13:53:54Z
-vtereshkov,Vasiliy Tereshkov,,"Moscow, Russia",,,,15,111,4,2019-07-03T10:36:39Z
-sergey-dryabzhinsky,Sergey Dryabzhinsky,RUSOFT,"Zelenograd, Moscow, Russian Federation",sergey.dryabzhinsky+github@gmail.com,,"I'm any-admin and web/software developer in @rusoft .
+ ",21,121,65,2016-07-25 23:36:18+00:00,1.8333333333333333
+hroff-1902,Andrey Rezvov,FREQTRADE CORE DEV; FRIZZLEAPPS/WHATSITWHATSIT,Moscow,,False,,20,121,1,2019-02-04 02:12:22+00:00,60.5
+AstreyaJulia,Yuliya Latysheva,,"Russia, Moscow",,True,11.09.1985,18,120,87,2019-12-02 15:35:10+00:00,1.3636363636363635
+mishanga,Mikhail Troshev,YANDEX ADS,"Moscow, Russia",mishanga@yandex-team.ru,False,,47,120,56,2010-12-13 15:05:30+00:00,2.1052631578947367
+moteus,Alexey Melnichuk,,"Russia, Moscow",alexeymelnichuck@gmail.com,False,,150,119,11,2012-06-01 09:23:12+00:00,9.916666666666666
+ZakharDay,ZakharDay,HEADEXCHANGE @HSEADC,"Moscow, Russia",zakhar.day@gmail.com,False,"Head of the Chair of Design and Programming of the HSE (National Research University Higher School of Economics) Art And Design School, new media enthusiast",138,119,76,2011-05-28 08:41:32+00:00,1.5454545454545454
+stamm,Rustam Zagirov,OZON,"Moscow, Russia",rustam@zagirov.name,False,,120,116,209,2010-05-19 09:42:23+00:00,0.5523809523809524
+dariaemacs,Daria Emacs,,Moscow,dariaemacs@gmail.com,False,"Mathematician-programmer, C++ software developer.
+",15,116,2,2016-09-30 10:46:22+00:00,38.666666666666664
+quen0n,Victor Nikitchuk,,Moscow,,False,,17,115,3,2014-12-05 18:52:50+00:00,28.75
+alvassin,Alexander Vasin,EDADEAL,Moscow,hi@alvass.in,False,,27,114,40,2012-03-03 19:32:07+00:00,2.7804878048780486
+dvmazur,Denis Mazur,,"Moscow, Russia",denismazur8@gmail.com,False,"switch stance, face plant; napalm fire starters; flatlander, plug puller; nose dive turbulence chartered",43,113,38,2016-09-30 11:13:25+00:00,2.8974358974358974
+xakepru,XakepRU,GLC,"Moscow, Russia",,False,,35,112,0,2014-05-05 11:18:11+00:00,112.0
+MarinaPaley,Васильева Марина Алексеевна,MIIT,Moscow,marina_paley@mail.ru,False,"Доцент кафедры УиЗИ
+",39,112,4,2017-04-06 19:11:01+00:00,22.4
+voischev,Ivan Voischev,YANDEX,"Russia, Moscow",voischev.ivan@ya.ru,True,Developer at @yandex,10,112,59,2012-03-07 06:03:55+00:00,1.8666666666666667
+KOLANICH,KOLANICH,KOLANICH INC.,"Moscow, Russia",,True,,10,112,125,2010-04-09 13:53:54+00:00,0.8888888888888888
+vtereshkov,Vasiliy Tereshkov,,"Moscow, Russia",,False,,15,111,4,2019-07-03 10:36:39+00:00,22.2
+sergey-dryabzhinsky,Sergey Dryabzhinsky,RUSOFT,"Zelenograd, Moscow, Russian Federation",sergey.dryabzhinsky+github@gmail.com,False,"I'm any-admin and web/software developer in @rusoft .
 
 I just want things working fine. And that mean a lot things need to be working fine.
 
-Damn recursion.",17,111,0,2011-04-08T14:32:54Z
-Lancetnik,Pastukhov Nikita,,Moscow,nikita@pastukhov-dev.ru,,"Opensource enthusiast, FastStream maintainer. Python, TS, Go, Rust funboy⚡ ",27,111,7,2018-10-29T12:16:54Z
-andrewalexeich,Andrey Gorokhov,,"Russia, Moscow",,True,"UI/UX, music lover",7,111,0,2018-02-01T13:28:14Z
-noiseworking,Mohamed Lamari,SWAT,"Moscow,Russia",,,"Hello!! I'm a Software engineering student who really loves Reverse Engineering, free/libre software and Black Metal!",11,110,1,2023-02-15T13:38:51Z
-zeegin,Ingvar Vilkman,,"Moscow, Russia",,,,19,110,85,2011-04-14T12:34:00Z
-maxcom,Maxim Valyanskiy,,Moscow,,,,45,109,0,2009-04-01T14:01:32Z
+Damn recursion.",17,111,0,2011-04-08 14:32:54+00:00,111.0
+Lancetnik,Pastukhov Nikita,,Moscow,nikita@pastukhov-dev.ru,False,"Opensource enthusiast, FastStream maintainer. Python, TS, Go, Rust funboy⚡ ",27,111,7,2018-10-29 12:16:54+00:00,13.875
+andrewalexeich,Andrey Gorokhov,,"Russia, Moscow",,True,"UI/UX, music lover",7,111,0,2018-02-01 13:28:14+00:00,111.0
+noiseworking,Mohamed Lamari,SWAT,"Moscow,Russia",,False,"Hello!! I'm a Software engineering student who really loves Reverse Engineering, free/libre software and Black Metal!",11,110,1,2023-02-15 13:38:51+00:00,55.0
+zeegin,Ingvar Vilkman,,"Moscow, Russia",,False,,19,110,85,2011-04-14 12:34:00+00:00,1.2790697674418605
+maxcom,Maxim Valyanskiy,,Moscow,,False,,45,109,0,2009-04-01 14:01:32+00:00,109.0
 AzzraelCode,Azzrael,,Moscow,,True,"IT Man for Traders !
 Algotrading and analitics w API Binance, OKX, ByBit + Python, PHP, JS, DevOps
-Backtests w TradingView / PineScript.",18,108,0,2013-02-25T19:53:31Z
+Backtests w TradingView / PineScript.",18,108,0,2013-02-25 19:53:31+00:00,108.0
 NameArtem,Artem Seleznev,MAGNIT,"Moscow, Russia",,True,"CDO at Nuum
 
 #datagansta
 
 Member of NumFocus
 
-",176,108,56,2016-04-07T18:48:21Z
-altavir,Alexander Nozik,,"Moscow, Russia",,,Director of Scientific Programming Centre,50,108,5,2014-11-02T15:20:39Z
-leech001,Bulanov Konstantin,FSUE «GENERAL RADIO FREQUENCY CENTRE»,Moscow,leech001@gmail.com,,,35,108,38,2016-03-06T07:53:25Z
-0niel,Sergey Dmitriev,РЕД СОФТ,"Moscow, Russia",,True,,93,108,94,2019-05-26T18:29:00Z
-FARCER,Anatoliy Salamatin,SOLIT CLOUDS,Moscow,,,,25,107,2,2015-04-09T16:38:22Z
-vpavkin,Vladimir Pavkin,,"Moscow, Russia",vpavkin@gmail.com,,Scala Developer,67,106,0,2010-09-21T20:41:03Z
-qfox,Alexej Yaroshevich,YANDEX,"Moscow, Russia",zxqfox@gmail.com,,,147,105,44,2011-03-18T17:38:35Z
-y9san9,Alex Sokol,MEETACY,Moscow,y9san9@gmail.com,True,,36,105,64,2019-01-22T14:38:24Z
-kshilin,Kirill Shilin,THE RUSSIAN PRESIDENTIAL ACADEMY OF NATIONAL ECONOMY AND PUBLIC ADMINISTRATION (RANEPA),"Moscow, Russia",,,Professor of the Russian Presidential Academy of National Economy and Public Administration ,7,105,0,2019-05-17T13:05:49Z
-termi,Егор Халимоненко,,Moscow,termi_uc@inbox.ru,,,49,104,5,2011-08-11T10:56:38Z
-recoilme,Vadim Kulibaba,MAILRU,"Russia, Moscow",,,,136,104,40,2010-09-27T06:23:46Z
-rodion-gudz,Rodion Gudz,POSITIVE TECHNOLOGIES,"Moscow, Russia",,True,Backend developer,44,104,110,2020-06-20T22:29:14Z
-d-mozulyov,Dmitry,,"Moscow, RF",,,,12,103,0,2015-02-11T15:43:40Z
+",176,108,56,2016-04-07 18:48:21+00:00,1.894736842105263
+altavir,Alexander Nozik,,"Moscow, Russia",,False,Director of Scientific Programming Centre,50,108,5,2014-11-02 15:20:39+00:00,18.0
+leech001,Bulanov Konstantin,FSUE «GENERAL RADIO FREQUENCY CENTRE»,Moscow,leech001@gmail.com,False,,35,108,38,2016-03-06 07:53:25+00:00,2.769230769230769
+0niel,Sergey Dmitriev,РЕД СОФТ,"Moscow, Russia",,True,,93,108,94,2019-05-26 18:29:00+00:00,1.1368421052631579
+FARCER,Anatoliy Salamatin,SOLIT CLOUDS,Moscow,,False,,25,107,2,2015-04-09 16:38:22+00:00,35.666666666666664
+vpavkin,Vladimir Pavkin,,"Moscow, Russia",vpavkin@gmail.com,False,Scala Developer,67,106,0,2010-09-21 20:41:03+00:00,106.0
+qfox,Alexej Yaroshevich,YANDEX,"Moscow, Russia",zxqfox@gmail.com,False,,147,105,44,2011-03-18 17:38:35+00:00,2.3333333333333335
+y9san9,Alex Sokol,MEETACY,Moscow,y9san9@gmail.com,True,,36,105,64,2019-01-22 14:38:24+00:00,1.6153846153846154
+kshilin,Kirill Shilin,THE RUSSIAN PRESIDENTIAL ACADEMY OF NATIONAL ECONOMY AND PUBLIC ADMINISTRATION (RANEPA),"Moscow, Russia",,False,Professor of the Russian Presidential Academy of National Economy and Public Administration ,7,105,0,2019-05-17 13:05:49+00:00,105.0
+termi,Егор Халимоненко,,Moscow,termi_uc@inbox.ru,False,,49,104,5,2011-08-11 10:56:38+00:00,17.333333333333332
+recoilme,Vadim Kulibaba,MAILRU,"Russia, Moscow",,False,,136,104,40,2010-09-27 06:23:46+00:00,2.5365853658536586
+rodion-gudz,Rodion Gudz,POSITIVE TECHNOLOGIES,"Moscow, Russia",,True,Backend developer,44,104,110,2020-06-20 22:29:14+00:00,0.9369369369369369
+d-mozulyov,Dmitry,,"Moscow, RF",,False,,12,103,0,2015-02-11 15:43:40+00:00,103.0
 Forden,Forden,,"Russia, Moscow",,True,"Python Backend Developer 
-",10,103,8,2016-12-08T20:25:51Z
-Murcha1990,Elena Kantonistova,,"Russia, Moscow",elena.kantonistova@yandex.ru,,,52,103,0,2017-02-17T08:03:42Z
-SimonHarmonicMinor,Semyon Kirekov,,"Moscow, Russia",semyon@kirekov.com,True,I like to write software that brings benefits to other people.,58,103,10,2017-04-07T17:43:19Z
-dbaranchuk,Dmitry Baranchuk,YANDEX,Moscow,dmitrybaranchuk@gmail.com,True,,47,103,0,2015-09-26T15:08:45Z
-tormozit,Sergey Starykh,,"Moscow, Russia",,,,14,103,0,2015-04-11T05:01:42Z
+",10,103,8,2016-12-08 20:25:51+00:00,11.444444444444445
+Murcha1990,Elena Kantonistova,,"Russia, Moscow",elena.kantonistova@yandex.ru,False,,52,103,0,2017-02-17 08:03:42+00:00,103.0
+SimonHarmonicMinor,Semyon Kirekov,,"Moscow, Russia",semyon@kirekov.com,True,I like to write software that brings benefits to other people.,58,103,10,2017-04-07 17:43:19+00:00,9.363636363636363
+dbaranchuk,Dmitry Baranchuk,YANDEX,Moscow,dmitrybaranchuk@gmail.com,True,,47,103,0,2015-09-26 15:08:45+00:00,103.0
+tormozit,Sergey Starykh,,"Moscow, Russia",,False,,14,103,0,2015-04-11 05:01:42+00:00,103.0
 dimaip,Dmitri Pisarev,PSMB,Moscow,dimaip@gmail.com,True,"I believe in Christ. Also, I'm a web developer at @psmb.
-@neos team member. ReactJS all things!",85,102,87,2011-06-08T08:48:26Z
-MichaelRocks,Michael Rozumyanskiy,,"Moscow, Russia",michael.rozumyanskiy@gmail.com,,,17,101,0,2011-08-09T05:29:11Z
-pechorin,andrey pechorin,ROCKETHUMANS,"Moscow, Russia",pechorin.andrey@ya.ru,True,I love and do ruby/golang/bash/vimscript and programming in general;,18,101,244,2010-03-19T16:23:56Z
-isaevwork,,,Moscow,,,,16,100,44,2021-12-12T14:18:17Z
-tsamsonov,Timofey Samsonov,"LOMONOSOV MOSCOW STATE UNIVERSITY, FACULTY OF GEOGRAPHY","Moscow, Russia",tsamsonov@geogr.msu.ru,,Leading researcher at Lomonosov Moscow State University,73,99,27,2015-03-23T13:15:24Z
-evtuhovich,Ivan Evtuhovich,EXPRESS 42,"Moscow, Russia",evtuhovich@gmail.com,,,4,97,32,2009-02-24T20:44:32Z
-snikulov,Sergei Nikulov,,"Moscow, Russia",,True,,62,96,32,2009-10-20T12:59:44Z
-creadone,Sergey Fedorov,,Moscow,creadone@gmail.com,,,75,96,842,2011-08-19T10:53:41Z
-StrikerRUS,Nikita Titov,,"Moscow, Russia",,,,1,96,0,2017-01-16T00:54:16Z
+@neos team member. ReactJS all things!",85,102,87,2011-06-08 08:48:26+00:00,1.1590909090909092
+MichaelRocks,Michael Rozumyanskiy,,"Moscow, Russia",michael.rozumyanskiy@gmail.com,False,,17,101,0,2011-08-09 05:29:11+00:00,101.0
+pechorin,andrey pechorin,ROCKETHUMANS,"Moscow, Russia",pechorin.andrey@ya.ru,True,I love and do ruby/golang/bash/vimscript and programming in general;,18,101,244,2010-03-19 16:23:56+00:00,0.4122448979591837
+isaevwork,,,Moscow,,False,,16,100,44,2021-12-12 14:18:17+00:00,2.2222222222222223
+tsamsonov,Timofey Samsonov,"LOMONOSOV MOSCOW STATE UNIVERSITY, FACULTY OF GEOGRAPHY","Moscow, Russia",tsamsonov@geogr.msu.ru,False,Leading researcher at Lomonosov Moscow State University,73,99,27,2015-03-23 13:15:24+00:00,3.5357142857142856
+evtuhovich,Ivan Evtuhovich,EXPRESS 42,"Moscow, Russia",evtuhovich@gmail.com,False,,4,97,32,2009-02-24 20:44:32+00:00,2.9393939393939394
+snikulov,Sergei Nikulov,,"Moscow, Russia",,True,,62,96,32,2009-10-20 12:59:44+00:00,2.909090909090909
+creadone,Sergey Fedorov,,Moscow,creadone@gmail.com,False,,75,96,842,2011-08-19 10:53:41+00:00,0.11387900355871886
+StrikerRUS,Nikita Titov,,"Moscow, Russia",,False,,1,96,0,2017-01-16 00:54:16+00:00,96.0
 VladKalachev,Corvax,PRIMO RPA,"Moscow, Smolensk",vlvete1990@yandex.ru,True,"Senior Front End Software Engineer      
- JS/TS/React/Redux/MobX/Next/Elm/Vue/Node/Nest/Electron",139,94,50,2015-06-06T19:14:35Z
-kostia7alania,kostia7alania,AMP,moscow,osetia-alania@mail.ru,True,->yourself;,100,94,103,2016-03-30T19:26:21Z
-Kxrma47,Mahidul Haque,HSE,"Moscow,Russia",,,Life gives you lemons? make lemonade!,17,94,163,2022-10-02T20:15:02Z
-mkpankov,Michael Pankov,,"Moscow, Russia",mkpankov@yandex.ru,,,42,94,58,2010-09-09T19:35:45Z
-Shinbatsu,Andrew,HOME,Moscow,,True,,53,94,108,2021-07-26T15:39:38Z
-Fi1osof,Nikolay Lanets,FREECODE.ACADEMY,"Russia, Moscow",n.lanets@freecode.academy,True,,172,94,160,2012-10-13T09:25:12Z
-tyz910,Evgenii Ivanov,AVITO,"Moscow, Russia",,,Backend Developer,38,93,53,2012-03-05T17:15:41Z
-Kamillaova,Kamilla 'ova,,"Russia, Moscow",me@kamillaova.dev,True,,91,93,164,2019-09-03T17:23:02Z
-AlexanderByndyu,Alexander Byndyu,BYNDYUSOFT,Moscow,,True,"IT architect, Agile&Lean expert",19,92,1,2011-08-03T08:29:32Z
-zudochkin,Dima Zudochkin,,"Moscow, Russian Federation",dnd.pliz@gmail.com,True,"Do what you can, with what you have, where you are",112,92,27,2010-05-21T11:53:27Z
-deemru,Dmitrii Pichulin,WAVESPLATFORM & @CRYPTOPRO,"Moscow, Russia",deem@deem.ru,,Information Security Specialist,57,91,0,2015-01-26T10:03:54Z
-Oxotka,Никита Арипов,,Moscow,aripovn@gmail.com,,Developer 1C,40,91,16,2013-08-09T02:40:00Z
-ispras,Ivannikov Institute for System Programming of the Russian Academy of Sciences,,"Moscow, Russia",,,,111,91,0,2011-09-06T09:34:06Z
-developersu,Dmitry Isaenko,,"Moscow, Russia",,,Изобретатель радиопопов,33,91,6,2011-11-04T14:48:15Z
-princehua,Princ Marlin,INBOX,Moscow,,,"Senior Software Engineer, Computer Science Passionate",6,91,39,2020-03-29T10:30:34Z
-mtrempoltsev,Maksim Trempoltsev,YANDEX,"Moscow, Russia",mt@devexp.ru,,,25,91,0,2012-10-02T20:27:38Z
-medvm,Mikhail,,"Moscow, Russia",,,,7,90,4,2018-09-29T07:53:57Z
-TheBits,Sergey Mezentsev,,"Moscow, Russia",thebits@yandex.ru,True,,42,90,69,2009-06-05T08:21:32Z
-elevante,Adam,SCHOOL21,Moscow,,, GoLang Developer👨‍💻,2,90,47,2020-07-30T17:46:09Z
-SergeyRust,Sergey,ORTOPARKLLC @PSARSOFTWARE,Moscow,,,Telegram SergeyP_01_01,8,90,119,2021-05-04T16:53:41Z
-aVitomin,aVitomin,,"Russia, Moscow",,,,0,90,4,2015-04-03T03:08:07Z
-ak-git,,BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY,Moscow,ak.mail.ru@gmail.com,,,10,89,10,2011-03-07T12:26:56Z
-alexpetrov,Alexander Petrov,,Russia Moscow,alexpetrov.rb@gmail.com,True,"Clojure developer | Emacser | Singer, Guitar & Sax player",78,89,313,2011-03-14T19:30:35Z
-yallie,Alexey Yakovlev,ULTIMA,"Moscow, Russia",,,,99,89,114,2011-03-16T11:11:00Z
-niksamokhvalov,Nik Samokhvalov,NOTAMEDIA,"Russia, Moscow",nik@samokhvalov.info,,,2,88,0,2014-06-30T15:50:27Z
-avevlad,Vlad Derzhavin,,Moscow,vlad.derzhavin.mail@gmail.com,True,,47,88,9,2012-11-26T07:02:17Z
-Ciremun,Vladislav Atamanov,QA ENGINEER,"Moscow, Russia",Ciremun@yandex.ru,True,,51,88,32,2018-04-06T12:11:01Z
-dvshur,Dmitry Shuranov,,"Moscow, Russia",,,,12,88,0,2015-09-23T13:35:40Z
-zhelnio,Stanislav Zhelnio,,"Russia, Moscow",,,RTL Design Engineer,39,88,13,2014-01-06T22:25:02Z
-mitallast,Alexey Korchevsky,,"Russia, Moscow",,,,24,87,4,2010-12-21T08:16:37Z
-nevmenandr,Boris Orekhov,HSE UNIVERSITY,Moscow,nevmenandr@gmail.com,,Digital humanities researcher,53,87,74,2011-08-30T21:27:04Z
-bozaro,Artem V. Navrotskiy,JOOM,"Russia, Moscow",,,,149,86,7,2012-09-30T17:03:08Z
-Kerminator1973,Maksim Rozhkov,DORS,"Moscow, Russia",,,"I strongly believe in Linux. Clouds... sometimes they fall. Can't prioritize web or mobile. My everyday languages: C++, C#, JS, Python",14,86,94,2017-10-04T18:57:37Z
-akpaevj,Akpaev Evgeny,UNICHIMTEK LLC,"Russian, Moscow region, Podolsk City",,,.Net and 1C:Enterprise Developer,26,86,17,2018-06-09T04:19:27Z
-ansakharov,ansakharov,OZONTECH,Moscow,,,,11,85,13,2021-08-17T21:26:45Z
-Peshkov-Matvei,Peshkov Matvey,,Moscow,,,"Hi!
-I'm a Data Scientist and ML developer",14,85,101,2021-10-20T07:04:11Z
-Billq123,Bill,KASCVA INC,Moscow,,,Blockchain developer,6,85,76,2023-03-19T04:20:01Z
-psylone,Evgeniy Fateev,UZUM,"Russia, Moscow",spaceflow@gmail.com,,Software developer and mentor with a true positive mindset.,45,84,87,2010-03-16T21:41:55Z
-yvasiyarov,Yuriy Vasiyarov,OZONRU,"Moscow, Russia",,,,44,84,22,2011-07-01T19:58:53Z
-isRuslan,Ruslan Ismagilov,YANDEX,"Russia, Moscow",is.ismagilov@gmail.com,True,,18,83,8,2012-08-11T17:24:31Z
+ JS/TS/React/Redux/MobX/Next/Elm/Vue/Node/Nest/Electron",139,94,50,2015-06-06 19:14:35+00:00,1.8431372549019607
+kostia7alania,kostia7alania,AMP,moscow,osetia-alania@mail.ru,True,->yourself;,100,94,103,2016-03-30 19:26:21+00:00,0.9038461538461539
+Kxrma47,Mahidul Haque,HSE,"Moscow,Russia",,False,Life gives you lemons? make lemonade!,17,94,163,2022-10-02 20:15:02+00:00,0.573170731707317
+mkpankov,Michael Pankov,,"Moscow, Russia",mkpankov@yandex.ru,False,,42,94,58,2010-09-09 19:35:45+00:00,1.5932203389830508
+Shinbatsu,Andrew,HOME,Moscow,,True,,53,94,108,2021-07-26 15:39:38+00:00,0.8623853211009175
+Fi1osof,Nikolay Lanets,FREECODE.ACADEMY,"Russia, Moscow",n.lanets@freecode.academy,True,,172,94,160,2012-10-13 09:25:12+00:00,0.5838509316770186
+tyz910,Evgenii Ivanov,AVITO,"Moscow, Russia",,False,Backend Developer,38,93,53,2012-03-05 17:15:41+00:00,1.7222222222222223
+Kamillaova,Kamilla 'ova,,"Russia, Moscow",me@kamillaova.dev,True,,91,93,164,2019-09-03 17:23:02+00:00,0.5636363636363636
+AlexanderByndyu,Alexander Byndyu,BYNDYUSOFT,Moscow,,True,"IT architect, Agile&Lean expert",19,92,1,2011-08-03 08:29:32+00:00,46.0
+zudochkin,Dima Zudochkin,,"Moscow, Russian Federation",dnd.pliz@gmail.com,True,"Do what you can, with what you have, where you are",112,92,27,2010-05-21 11:53:27+00:00,3.2857142857142856
+deemru,Dmitrii Pichulin,WAVESPLATFORM & @CRYPTOPRO,"Moscow, Russia",deem@deem.ru,False,Information Security Specialist,57,91,0,2015-01-26 10:03:54+00:00,91.0
+Oxotka,Никита Арипов,,Moscow,aripovn@gmail.com,False,Developer 1C,40,91,16,2013-08-09 02:40:00+00:00,5.352941176470588
+ispras,Ivannikov Institute for System Programming of the Russian Academy of Sciences,,"Moscow, Russia",,False,,111,91,0,2011-09-06 09:34:06+00:00,91.0
+developersu,Dmitry Isaenko,,"Moscow, Russia",,False,Изобретатель радиопопов,33,91,6,2011-11-04 14:48:15+00:00,13.0
+princehua,Princ Marlin,INBOX,Moscow,,False,"Senior Software Engineer, Computer Science Passionate",6,91,39,2020-03-29 10:30:34+00:00,2.275
+mtrempoltsev,Maksim Trempoltsev,YANDEX,"Moscow, Russia",mt@devexp.ru,False,,25,91,0,2012-10-02 20:27:38+00:00,91.0
+medvm,Mikhail,,"Moscow, Russia",,False,,7,90,4,2018-09-29 07:53:57+00:00,18.0
+TheBits,Sergey Mezentsev,,"Moscow, Russia",thebits@yandex.ru,True,,42,90,69,2009-06-05 08:21:32+00:00,1.2857142857142858
+elevante,Adam,SCHOOL21,Moscow,,False, GoLang Developer👨‍💻,2,90,47,2020-07-30 17:46:09+00:00,1.875
+SergeyRust,Sergey,ORTOPARKLLC @PSARSOFTWARE,Moscow,,False,Telegram SergeyP_01_01,8,90,119,2021-05-04 16:53:41+00:00,0.75
+aVitomin,aVitomin,,"Russia, Moscow",,False,,0,90,4,2015-04-03 03:08:07+00:00,18.0
+ak-git,,BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY,Moscow,ak.mail.ru@gmail.com,False,,10,89,10,2011-03-07 12:26:56+00:00,8.090909090909092
+alexpetrov,Alexander Petrov,,Russia Moscow,alexpetrov.rb@gmail.com,True,"Clojure developer | Emacser | Singer, Guitar & Sax player",78,89,313,2011-03-14 19:30:35+00:00,0.28343949044585987
+yallie,Alexey Yakovlev,ULTIMA,"Moscow, Russia",,False,,99,89,114,2011-03-16 11:11:00+00:00,0.7739130434782608
+niksamokhvalov,Nik Samokhvalov,NOTAMEDIA,"Russia, Moscow",nik@samokhvalov.info,False,,2,88,0,2014-06-30 15:50:27+00:00,88.0
+avevlad,Vlad Derzhavin,,Moscow,vlad.derzhavin.mail@gmail.com,True,,47,88,9,2012-11-26 07:02:17+00:00,8.8
+Ciremun,Vladislav Atamanov,QA ENGINEER,"Moscow, Russia",Ciremun@yandex.ru,True,,51,88,32,2018-04-06 12:11:01+00:00,2.6666666666666665
+dvshur,Dmitry Shuranov,,"Moscow, Russia",,False,,12,88,0,2015-09-23 13:35:40+00:00,88.0
+zhelnio,Stanislav Zhelnio,,"Russia, Moscow",,False,RTL Design Engineer,39,88,13,2014-01-06 22:25:02+00:00,6.285714285714286
+mitallast,Alexey Korchevsky,,"Russia, Moscow",,False,,24,87,4,2010-12-21 08:16:37+00:00,17.4
+nevmenandr,Boris Orekhov,HSE UNIVERSITY,Moscow,nevmenandr@gmail.com,False,Digital humanities researcher,53,87,74,2011-08-30 21:27:04+00:00,1.16
+bozaro,Artem V. Navrotskiy,JOOM,"Russia, Moscow",,False,,149,86,7,2012-09-30 17:03:08+00:00,10.75
+Kerminator1973,Maksim Rozhkov,DORS,"Moscow, Russia",,False,"I strongly believe in Linux. Clouds... sometimes they fall. Can't prioritize web or mobile. My everyday languages: C++, C#, JS, Python",14,86,94,2017-10-04 18:57:37+00:00,0.9052631578947369
+akpaevj,Akpaev Evgeny,UNICHIMTEK LLC,"Russian, Moscow region, Podolsk City",,False,.Net and 1C:Enterprise Developer,26,86,17,2018-06-09 04:19:27+00:00,4.777777777777778
+ansakharov,ansakharov,OZONTECH,Moscow,,False,,11,85,13,2021-08-17 21:26:45+00:00,6.071428571428571
+Peshkov-Matvei,Peshkov Matvey,,Moscow,,False,"Hi!
+I'm a Data Scientist and ML developer",14,85,101,2021-10-20 07:04:11+00:00,0.8333333333333334
+Billq123,Bill,KASCVA INC,Moscow,,False,Blockchain developer,6,85,76,2023-03-19 04:20:01+00:00,1.103896103896104
+psylone,Evgeniy Fateev,UZUM,"Russia, Moscow",spaceflow@gmail.com,False,Software developer and mentor with a true positive mindset.,45,84,87,2010-03-16 21:41:55+00:00,0.9545454545454546
+yvasiyarov,Yuriy Vasiyarov,OZONRU,"Moscow, Russia",,False,,44,84,22,2011-07-01 19:58:53+00:00,3.652173913043478
+isRuslan,Ruslan Ismagilov,YANDEX,"Russia, Moscow",is.ismagilov@gmail.com,True,,18,83,8,2012-08-11 17:24:31+00:00,9.222222222222221
 cocolacre, Vadim Smirnov,,Moscow,cocolacre@gmail.com,True,"cyber.bio.sec@gmail.com
-vadim.b.smirnov@phystech.edu (N\A)",68,83,290,2015-07-27T09:24:50Z
-n3m351d4,N3m351d4,,Moscow,,,"Engineer
-",46,83,7,2018-08-04T14:04:54Z
-Alexander-Shum,Alexander Shumilov,,Moscow,,,Android Dev / Life enjoyer,13,83,97,2020-11-04T08:16:12Z
-DmitryOlshansky,Dmitry Olshansky,GLOW LABS,Moscow,dmitry@olshansky.me,,"https://olshansky.me
-",55,83,56,2010-05-19T20:51:03Z
-niyatanya,Tatiana Naumenko,,Almaty/Moscow,jouk@list.ru,True,"Java-developer, open for collaboration 🤝",13,83,75,2023-11-09T17:26:01Z
-kbiakov,Kirill Biakov,TUTU-RU,"Rostov-on-Don/Moscow, Russia",kbiakov@gmail.com,True,"Sr. Android developer at @tutu-ru. Passionate about mobile app architecture, Kotlin and Rx.",15,82,89,2014-09-06T04:08:51Z
-mRrvz,Alexey Romanov,SBERDEVICES,"Moscow, Russia",romanov.alexey2000@gmail.com,,"Kernel developer, BMSTU bachelors graduate.",34,82,10,2019-06-03T11:09:07Z
-tsigel,Daniil,,"Russia, Moscow",,,,35,82,1,2013-03-19T18:43:33Z
-alfacrab,Stanislav Zholudev,YCLIENTS,"Moscow, Russia",,,Develop et impera!,2,81,196,2014-09-08T13:33:00Z
-gdlbo,Artur Skubei,,"Moscow, Russia",,,"cute and funny 😭 @vtosters main dev, android developer",3,81,10,2018-07-11T11:52:58Z
-Zhekuson,Evgeny Plyushch,,"Moscow, Russia",,,"National Research University Higher School of Economics, 
-Faculty of Computer Science ",29,81,178,2017-07-21T06:32:42Z
-e-Nicko,Nickolai Yegorov,,"Russia, Moscow",e-nicko@ya.ru,,"Multidisciplinary designer, CG artist, and full-stack web developer",8,80,62,2016-01-19T09:33:48Z
-dmpas,Sergey Batanov,DMPAS.RU,Moscow,dmpas@dmpas.ru,True,,85,80,31,2013-10-11T15:23:49Z
-balkoev,Adam Balkoev,,"Russia, Moscow",adam22185515@gmail.com,,"Frontend Developer (ReactJS, NodeJS)",26,80,4,2016-10-04T21:39:43Z
-daevaorn,Alexander Koshelev,YANDEX,"Moscow, Russia",daevaorn@gmail.com,,,43,80,18,2008-11-30T15:13:45Z
-seven-phases-max,Max Mikhailov,,"Moscow, Russian Federation",seven.phases.max@gmail.com,,,13,80,8,2013-08-25T04:33:31Z
-aleha84,Starykh Aleksey,,"Moscow, Russia",astarikh@mail.ru,,,14,80,0,2014-03-28T13:02:34Z
-airgirl2305,Kheda Askhabova,,"Moscow, Russia",kheda.askhabova@gmail.com,,web-developer 🤘,20,80,251,2021-03-24T20:20:12Z
-androidtrojan1,fowl,,Moscow,,,,6,80,0,2016-08-20T09:35:22Z
-nullrndtx,Randall Tux,DRACOS-LINUX,"Moscow, Russia",rndtx@grombyang.or.id,True,I'm a bit of a hacker fanatic and know a fair bit about that industry and cyber crime and cyber warfare. || DracOs & grOS Developer,23,79,3,2015-05-01T17:35:39Z
-alec-c4,Alexey Poimtsev,ASGARD TECHNOLOGIES,"Warsaw, Poland / Yerevan, Armenia / Moscow, Russia ",,,,19,79,68,2008-09-19T07:47:03Z
-slon,Fedor Korotkiy,,Moscow,dartslon@gmail.com,,,34,79,56,2009-08-27T10:23:14Z
-pnrf,Yurnique,,"Russia, Moscow",,True,Технический писатель,24,79,56,2021-12-01T20:59:32Z
-k0kk0k,Danil Ushakov,,"Russia, Moscow",,,cryptomaniac,60,79,3,2020-02-09T18:47:28Z
-pasaran,Sergey Nikitin,,"Moscow, Russia",nik.pasaran@gmail.com,,,31,79,1,2009-01-03T18:11:20Z
-green-api,Green API,,Moscow,support@green-api.com,,WhatsApp API provider,33,79,0,2020-05-08T09:01:58Z
-ArtyKrafty,Artem Solomko,ARTYKRAFTYY - TELEGRAMM,Moscow,,,,8,78,6,2021-03-07T07:33:36Z
-realkarych,Andrey Karchevsky,YANDEX,"Russia, SPb / Moscow",,,,16,78,33,2020-03-16T19:19:17Z
-Melkijprogrammist,Uliana,,Moscow,uliana20037@yandex.ru,,I am student 1  cource bisnes info. ,18,78,65,2024-06-26T14:50:30Z
-Antonboom,Anton Telyshev,EXNESS,"Moscow, Russia",,,,20,78,4,2016-02-08T17:23:59Z
-LebedevRI,Roman Lebedev,,"Moscow, Russia",lebedev.ri@gmail.com,,,43,77,0,2009-05-26T07:03:25Z
-glebzo,glgz,SOFTWARE ENGINEERING,"Moscow, New York",,,🍭 ,7,77,61,2014-12-19T19:08:56Z
-Mirocow,mirocow,MIROCOW COMPANY,Russia Moscow,,True,Development for me is not a hobby but a process from i get a great pleasure.,357,76,196,2010-08-26T03:03:57Z
-Tourenathan-G5organisation,Toure Nathan,,"Moscow, Russia",teyou21@gmail.com,True,Software Engineer and Android Developer,61,76,26,2014-02-05T16:05:15Z
-nofeletru,Alexander,,Moscow,,,,1,76,0,2015-06-15T16:11:44Z
-TheDrHax,Дмитрий Карих,,"Moscow, Russian Federation",the.dr.hax@gmail.com,,,25,75,1,2014-03-16T20:39:27Z
-Bender101,Asafyev Sergey,AGRO.CLUB,"Russia, Moscow",,,"Frontend Developer | React
+vadim.b.smirnov@phystech.edu (N\A)",68,83,290,2015-07-27 09:24:50+00:00,0.2852233676975945
+n3m351d4,N3m351d4,,Moscow,,False,"Engineer
+",46,83,7,2018-08-04 14:04:54+00:00,10.375
+Alexander-Shum,Alexander Shumilov,,Moscow,,False,Android Dev / Life enjoyer,13,83,97,2020-11-04 08:16:12+00:00,0.8469387755102041
+DmitryOlshansky,Dmitry Olshansky,GLOW LABS,Moscow,dmitry@olshansky.me,False,"https://olshansky.me
+",55,83,56,2010-05-19 20:51:03+00:00,1.456140350877193
+niyatanya,Tatiana Naumenko,,Almaty/Moscow,jouk@list.ru,True,"Java-developer, open for collaboration 🤝",13,83,75,2023-11-09 17:26:01+00:00,1.0921052631578947
+kbiakov,Kirill Biakov,TUTU-RU,"Rostov-on-Don/Moscow, Russia",kbiakov@gmail.com,True,"Sr. Android developer at @tutu-ru. Passionate about mobile app architecture, Kotlin and Rx.",15,82,89,2014-09-06 04:08:51+00:00,0.9111111111111111
+mRrvz,Alexey Romanov,SBERDEVICES,"Moscow, Russia",romanov.alexey2000@gmail.com,False,"Kernel developer, BMSTU bachelors graduate.",34,82,10,2019-06-03 11:09:07+00:00,7.454545454545454
+tsigel,Daniil,,"Russia, Moscow",,False,,35,82,1,2013-03-19 18:43:33+00:00,41.0
+alfacrab,Stanislav Zholudev,YCLIENTS,"Moscow, Russia",,False,Develop et impera!,2,81,196,2014-09-08 13:33:00+00:00,0.41116751269035534
+gdlbo,Artur Skubei,,"Moscow, Russia",,False,"cute and funny 😭 @vtosters main dev, android developer",3,81,10,2018-07-11 11:52:58+00:00,7.363636363636363
+Zhekuson,Evgeny Plyushch,,"Moscow, Russia",,False,"National Research University Higher School of Economics, 
+Faculty of Computer Science ",29,81,178,2017-07-21 06:32:42+00:00,0.45251396648044695
+e-Nicko,Nickolai Yegorov,,"Russia, Moscow",e-nicko@ya.ru,False,"Multidisciplinary designer, CG artist, and full-stack web developer",8,80,62,2016-01-19 09:33:48+00:00,1.2698412698412698
+dmpas,Sergey Batanov,DMPAS.RU,Moscow,dmpas@dmpas.ru,True,,85,80,31,2013-10-11 15:23:49+00:00,2.5
+balkoev,Adam Balkoev,,"Russia, Moscow",adam22185515@gmail.com,False,"Frontend Developer (ReactJS, NodeJS)",26,80,4,2016-10-04 21:39:43+00:00,16.0
+daevaorn,Alexander Koshelev,YANDEX,"Moscow, Russia",daevaorn@gmail.com,False,,43,80,18,2008-11-30 15:13:45+00:00,4.2105263157894735
+seven-phases-max,Max Mikhailov,,"Moscow, Russian Federation",seven.phases.max@gmail.com,False,,13,80,8,2013-08-25 04:33:31+00:00,8.88888888888889
+aleha84,Starykh Aleksey,,"Moscow, Russia",astarikh@mail.ru,False,,14,80,0,2014-03-28 13:02:34+00:00,80.0
+airgirl2305,Kheda Askhabova,,"Moscow, Russia",kheda.askhabova@gmail.com,False,web-developer 🤘,20,80,251,2021-03-24 20:20:12+00:00,0.31746031746031744
+androidtrojan1,fowl,,Moscow,,False,,6,80,0,2016-08-20 09:35:22+00:00,80.0
+nullrndtx,Randall Tux,DRACOS-LINUX,"Moscow, Russia",rndtx@grombyang.or.id,True,I'm a bit of a hacker fanatic and know a fair bit about that industry and cyber crime and cyber warfare. || DracOs & grOS Developer,23,79,3,2015-05-01 17:35:39+00:00,19.75
+alec-c4,Alexey Poimtsev,ASGARD TECHNOLOGIES,"Warsaw, Poland / Yerevan, Armenia / Moscow, Russia ",,False,,19,79,68,2008-09-19 07:47:03+00:00,1.144927536231884
+slon,Fedor Korotkiy,,Moscow,dartslon@gmail.com,False,,34,79,56,2009-08-27 10:23:14+00:00,1.3859649122807018
+pnrf,Yurnique,,"Russia, Moscow",,True,Технический писатель,24,79,56,2021-12-01 20:59:32+00:00,1.3859649122807018
+k0kk0k,Danil Ushakov,,"Russia, Moscow",,False,cryptomaniac,60,79,3,2020-02-09 18:47:28+00:00,19.75
+pasaran,Sergey Nikitin,,"Moscow, Russia",nik.pasaran@gmail.com,False,,31,79,1,2009-01-03 18:11:20+00:00,39.5
+green-api,Green API,,Moscow,support@green-api.com,False,WhatsApp API provider,33,79,0,2020-05-08 09:01:58+00:00,79.0
+ArtyKrafty,Artem Solomko,ARTYKRAFTYY - TELEGRAMM,Moscow,,False,,8,78,6,2021-03-07 07:33:36+00:00,11.142857142857142
+realkarych,Andrey Karchevsky,YANDEX,"Russia, SPb / Moscow",,False,,16,78,33,2020-03-16 19:19:17+00:00,2.2941176470588234
+Melkijprogrammist,Uliana,,Moscow,uliana20037@yandex.ru,False,I am student 1  cource bisnes info. ,18,78,65,2024-06-26 14:50:30+00:00,1.1818181818181819
+Antonboom,Anton Telyshev,EXNESS,"Moscow, Russia",,False,,20,78,4,2016-02-08 17:23:59+00:00,15.6
+LebedevRI,Roman Lebedev,,"Moscow, Russia",lebedev.ri@gmail.com,False,,43,77,0,2009-05-26 07:03:25+00:00,77.0
+glebzo,glgz,SOFTWARE ENGINEERING,"Moscow, New York",,False,🍭 ,7,77,61,2014-12-19 19:08:56+00:00,1.2419354838709677
+Mirocow,mirocow,MIROCOW COMPANY,Russia Moscow,,True,Development for me is not a hobby but a process from i get a great pleasure.,357,76,196,2010-08-26 03:03:57+00:00,0.38578680203045684
+Tourenathan-G5organisation,Toure Nathan,,"Moscow, Russia",teyou21@gmail.com,True,Software Engineer and Android Developer,61,76,26,2014-02-05 16:05:15+00:00,2.814814814814815
+nofeletru,Alexander,,Moscow,,False,,1,76,0,2015-06-15 16:11:44+00:00,76.0
+TheDrHax,Дмитрий Карих,,"Moscow, Russian Federation",the.dr.hax@gmail.com,False,,25,75,1,2014-03-16 20:39:27+00:00,37.5
+Bender101,Asafyev Sergey,AGRO.CLUB,"Russia, Moscow",,False,"Frontend Developer | React
 
-",23,74,67,2021-09-25T09:37:49Z
-KirillTemnov,Kirill Temnov,ADBOOST,"Moscow, Russia",,,,30,74,73,2009-10-31T17:37:07Z
-artamonoff,Nikita Artamonov,MGIMO UNIVERSITY,"Moscow, Russia",artamonov@inno.mgimo.ru,,,11,74,56,2016-03-21T14:32:08Z
-annulen,Konstantin Tokarev,"DEPARTMENT OF CHEMISTRY, MOSCOW STATE UNIVERSITY","Moscow, Russia",,,Russian hacker,78,74,12,2009-07-07T15:13:55Z
-pulyavin,Artem Puliavin,,Moscow,artemiy@pulyavin.ru,True,,27,73,6,2014-10-23T09:36:13Z
-aliczin,,ICZIN,Moscow,,,,1,73,4,2019-10-03T05:51:55Z
-Artemilyen,Artem Bondarenko,,"Moscow, Russia",,,,7,73,88,2022-04-04T19:19:47Z
-d4rsen,Darsen,,Russia Moscow,,True,Any technique is worthless before my eyes  ࿋࿋,6,73,14,2021-08-31T13:38:27Z
-usr-sse2,Michael Belyaev,,"Moscow, Russia",usrsse2@icloud.com,,,45,72,5,2010-10-20T12:03:18Z
-daniiomir,Daniel Mironov,SCHOOL21MOSCOW,Moscow,,True,Student of a school 21 (@school21moscow) in Moscow. Data scientist.,20,72,8,2019-01-05T14:40:15Z
-xanderblinov,Alexander Blinov,HHRU,Moscow,xanderblinov@gmail.com,,B2C CTO @hh.ru,33,72,7,2010-11-06T07:56:17Z
-galek,Nikolay Galko,I'M READY FOR NEW DISCOVERIES,Moscow,,True,"Senior R&D Software Engineer, CTO",383,72,252,2014-03-22T01:08:30Z
-Olegt0rr,Oleg A.,,"Russia, Moscow",t0rr@mail.ru,,"PO, DEV",86,72,33,2017-01-28T07:16:29Z
-bonlime,,,Moscow,bonlimezak@gmail.com,,"Emil Zakirov.
+",23,74,67,2021-09-25 09:37:49+00:00,1.088235294117647
+KirillTemnov,Kirill Temnov,ADBOOST,"Moscow, Russia",,False,,30,74,73,2009-10-31 17:37:07+00:00,1.0
+artamonoff,Nikita Artamonov,MGIMO UNIVERSITY,"Moscow, Russia",artamonov@inno.mgimo.ru,False,,11,74,56,2016-03-21 14:32:08+00:00,1.2982456140350878
+annulen,Konstantin Tokarev,"DEPARTMENT OF CHEMISTRY, MOSCOW STATE UNIVERSITY","Moscow, Russia",,False,Russian hacker,78,74,12,2009-07-07 15:13:55+00:00,5.6923076923076925
+pulyavin,Artem Puliavin,,Moscow,artemiy@pulyavin.ru,True,,27,73,6,2014-10-23 09:36:13+00:00,10.428571428571429
+aliczin,,ICZIN,Moscow,,False,,1,73,4,2019-10-03 05:51:55+00:00,14.6
+Artemilyen,Artem Bondarenko,,"Moscow, Russia",,False,,7,73,88,2022-04-04 19:19:47+00:00,0.8202247191011236
+d4rsen,Darsen,,Russia Moscow,,True,Any technique is worthless before my eyes  ࿋࿋,6,73,14,2021-08-31 13:38:27+00:00,4.866666666666666
+usr-sse2,Michael Belyaev,,"Moscow, Russia",usrsse2@icloud.com,False,,45,72,5,2010-10-20 12:03:18+00:00,12.0
+daniiomir,Daniel Mironov,SCHOOL21MOSCOW,Moscow,,True,Student of a school 21 (@school21moscow) in Moscow. Data scientist.,20,72,8,2019-01-05 14:40:15+00:00,8.0
+xanderblinov,Alexander Blinov,HHRU,Moscow,xanderblinov@gmail.com,False,B2C CTO @hh.ru,33,72,7,2010-11-06 07:56:17+00:00,9.0
+galek,Nikolay Galko,I'M READY FOR NEW DISCOVERIES,Moscow,,True,"Senior R&D Software Engineer, CTO",383,72,252,2014-03-22 01:08:30+00:00,0.2845849802371542
+Olegt0rr,Oleg A.,,"Russia, Moscow",t0rr@mail.ru,False,"PO, DEV",86,72,33,2017-01-28 07:16:29+00:00,2.1176470588235294
+bonlime,,,Moscow,bonlimezak@gmail.com,False,"Emil Zakirov.
 MIPT & Skoltech.
-Computer Vision Engineer.",37,72,9,2015-09-17T20:48:13Z
+Computer Vision Engineer.",37,72,9,2015-09-17 20:48:13+00:00,7.2
 trane7776,Timur Izbasarov,TRANE7776,"Russia, Moscow",timatitimati1@gmail.com,True,"Hi 👋, I'm Timur Izbasarov
-A beginning web3 developer from Russia",34,72,214,2020-07-15T21:26:45Z
-Sergey-Yurakov,@Stells54,,Moscow,,,Frontend developer,24,71,87,2020-06-13T22:53:58Z
-SweetVishnya,Alexey Vishnyakov,YANDEX-CLOUD,"Moscow, Russia",pmvishnya@gmail.com,,PhD in computer security,41,71,59,2016-09-12T12:26:35Z
+A beginning web3 developer from Russia",34,72,214,2020-07-15 21:26:45+00:00,0.33488372093023255
+Sergey-Yurakov,@Stells54,,Moscow,,False,Frontend developer,24,71,87,2020-06-13 22:53:58+00:00,0.8068181818181818
+SweetVishnya,Alexey Vishnyakov,YANDEX-CLOUD,"Moscow, Russia",pmvishnya@gmail.com,False,PhD in computer security,41,71,59,2016-09-12 12:26:35+00:00,1.1833333333333333
 Mansurow,Vladislav Mansurov,QOOLLO,Moscow,reymax.vlad@gmail.com,True,"Young developer and designer 
 | 
 BMSTU Software Engineering Student
-",40,71,42,2020-03-16T11:31:07Z
-tankakatan,Den Voropaev,,"Moscow, Russia",,True,ǝ̐͝ʇ̾͆ɐ̔͠͝n̈́͠b͑͋̔ǝ͐̿͘p͒͛͝o͌͐͝ǝ͒̕̚u͒͐͝,29,71,21,2014-10-15T18:33:42Z
-abashev,Alexey Abashev,,"Moscow, Russia",,True,,15,71,3,2010-03-02T19:59:53Z
+",40,71,42,2020-03-16 11:31:07+00:00,1.6511627906976745
+tankakatan,Den Voropaev,,"Moscow, Russia",,True,ǝ̐͝ʇ̾͆ɐ̔͠͝n̈́͠b͑͋̔ǝ͐̿͘p͒͛͝o͌͐͝ǝ͒̕̚u͒͐͝,29,71,21,2014-10-15 18:33:42+00:00,3.227272727272727
+abashev,Alexey Abashev,,"Moscow, Russia",,True,,15,71,3,2010-03-02 19:59:53+00:00,17.75
 hightemp,Anton Panov,,"Russia, Moscow",hightemp.unknown@gmail.com,True,"Web-developer:
 javascript, php, golang,
 
@@ -361,195 +361,195 @@ javascript, php, golang,
 vue, nodejs,
 c++, rust, nim,
 python, flask, django
-",193,70,41,2010-06-05T14:26:12Z
-KotRikD,Mikhail Babynichev,,Moscow,i@kotrik.ru,True,"Node.js/Web, Python developer & Interface developer at @Yandex",48,70,12,2016-11-05T19:52:22Z
-lamoda,Lamoda Tech,,Moscow,,,One of the biggest e-commerce platform in CIS,42,69,0,2017-07-17T22:38:35Z
-jtarasova,Julia,,Moscow,,,"JavaScript developer (ReactJS, NodeJS)",12,69,0,2019-10-08T08:03:07Z
-mayordwells,Mayor,"CONECTAR LLC, @CREATIVEMINDSDEV, KINGS TECH GROUP, CURATOR VIDEO RESEARCH,  AVOCADO NG - AVOCADOAPP.NG","Moscow, Russia.",adewolemayowa@gmail.com,True,"Founder/CTO @ Avocado NG, CTO Curator Video Research @curatorvideo, Farmer, Youtube Tutor, Check out my tutorials.",17,69,290,2012-01-23T09:00:36Z
-hatarist,Igor Hatarist,HATARIST,"Moscow, Russia",,,,14,69,46,2012-11-07T09:04:18Z
-ia-stepanov,Igor Stepanov,,"Russia, Moscow",igorstepanov@hotmail.com,,"Frontend Developer: JavaScript, React.js, Node.js, Express.js, NoSQL, MongoDB, Rest API, Postman, Webpack, HTML5, CSS3 (Flexbox, Grid), БЭМ, Figma",39,69,31,2021-06-25T19:25:56Z
-gazievri,Ruslan Gaziev,,Moscow,gaziev.r@icloud.com,True,Frontend developer: react | typescript | redux,56,69,75,2021-12-16T13:21:20Z
-timgabets,Tim Gabets,TINKOFFCREDITSYSTEMS,"Moscow, Russia",tim@gabets.ru,True,Developing low response card processing systems at @TinkoffCreditSystems,44,68,1,2012-05-15T21:11:39Z
-satyarth,Satyarth Mishra Sharma,,Moscow,github@satyarth.me,,Just a regular guy in the neighborhood,26,68,34,2013-07-16T12:33:43Z
-markshevchenko,Mark Shevchenko,,"Moscow, Russia",,,,22,68,0,2015-01-21T20:18:22Z
-nekitdev,Nikita Tikhonov,MELODYKIT,"Moscow, Russia",nekit@nekit.dev,True,"Building awesome software. CEO of @MelodyKit, Software Developer, INFP.",24,67,16,2018-09-25T19:59:20Z
-konstantinpavlikhin,Konstantin Pavlikhin,INDIE MAC DEVELOPER,"Moscow, Russia",k.pavlikhin@gmail.com,,"Indie Mac Developer.
-",10,67,313,2011-09-17T17:28:14Z
-egormkn,Egor Makarenko,YANDEX,"Moscow / Tyumen, Russia",egormkn@yandex.ru,True,,71,67,106,2014-04-04T16:42:25Z
-demist,Nikita Starichkov,1C COMPANY,"Moscow, Russia",,,"1C, MIPT, HSE",10,67,0,2014-03-26T16:37:41Z
-sergio-fry,Sergei O. Udalov,ECOM.TECH,"Balashiha, Moscow",udalov.x@mail.ru,,,142,67,35,2009-04-05T21:06:21Z
-0Nera,Aren Elchinyan,SYNAPSE-OS,Moscow,a2.dev@yandex.ru,True,Я программист из России. Занимаюсь разработкой операционных систем и различных проектов.,42,67,25,2020-09-19T02:26:48Z
-vlarine,Vladimir Larin,OPEN DATA SCIENCE,"Moscow, Russia",vlarine@gmail.com,,,16,66,1,2015-01-23T12:58:30Z
-michaelbel,Michael Bely,,Moscow,michael-bel@outlook.com,True,Android & Kotlin problem solver,17,66,115,2015-11-25T17:03:52Z
-iqzmn,Igor Kuzmin,,"Moscow, Russia",,,Data Analyst,8,66,65,2015-11-10T12:55:56Z
-CollectionBuilder,CollectionBuilder,,"Moscow, Idaho",collectionbuilder.team@gmail.com,,Jekyll-based templates for building digital collections and exhibits exploring static web solutions for libraries,24,66,0,2018-05-04T19:51:47Z
-gthdeiby,Dmitry Pervushin,,Moscow,,,,13,66,68,2017-10-06T13:12:42Z
-ilya16,Ilya Borovik,,"Moscow, Russia",ilyaborovik97@gmail.com,,PhD student at Skoltech: music generation / text-to-speech synthesis.,29,66,26,2016-10-16T20:48:20Z
-m-maksyutin,,,Moscow,,,,2,66,0,2017-06-05T11:50:59Z
-webistomin,Alexey Istomin,OZONTECH,"Russia, Moscow",webistomin@gmail.com,,"@ozontech by day, @github by night.
+",193,70,41,2010-06-05 14:26:12+00:00,1.6666666666666667
+KotRikD,Mikhail Babynichev,,Moscow,i@kotrik.ru,True,"Node.js/Web, Python developer & Interface developer at @Yandex",48,70,12,2016-11-05 19:52:22+00:00,5.384615384615385
+lamoda,Lamoda Tech,,Moscow,,False,One of the biggest e-commerce platform in CIS,42,69,0,2017-07-17 22:38:35+00:00,69.0
+jtarasova,Julia,,Moscow,,False,"JavaScript developer (ReactJS, NodeJS)",12,69,0,2019-10-08 08:03:07+00:00,69.0
+mayordwells,Mayor,"CONECTAR LLC, @CREATIVEMINDSDEV, KINGS TECH GROUP, CURATOR VIDEO RESEARCH,  AVOCADO NG - AVOCADOAPP.NG","Moscow, Russia.",adewolemayowa@gmail.com,True,"Founder/CTO @ Avocado NG, CTO Curator Video Research @curatorvideo, Farmer, Youtube Tutor, Check out my tutorials.",17,69,290,2012-01-23 09:00:36+00:00,0.23711340206185566
+hatarist,Igor Hatarist,HATARIST,"Moscow, Russia",,False,,14,69,46,2012-11-07 09:04:18+00:00,1.4680851063829787
+ia-stepanov,Igor Stepanov,,"Russia, Moscow",igorstepanov@hotmail.com,False,"Frontend Developer: JavaScript, React.js, Node.js, Express.js, NoSQL, MongoDB, Rest API, Postman, Webpack, HTML5, CSS3 (Flexbox, Grid), БЭМ, Figma",39,69,31,2021-06-25 19:25:56+00:00,2.15625
+gazievri,Ruslan Gaziev,,Moscow,gaziev.r@icloud.com,True,Frontend developer: react | typescript | redux,56,69,75,2021-12-16 13:21:20+00:00,0.9078947368421053
+timgabets,Tim Gabets,TINKOFFCREDITSYSTEMS,"Moscow, Russia",tim@gabets.ru,True,Developing low response card processing systems at @TinkoffCreditSystems,44,68,1,2012-05-15 21:11:39+00:00,34.0
+satyarth,Satyarth Mishra Sharma,,Moscow,github@satyarth.me,False,Just a regular guy in the neighborhood,26,68,34,2013-07-16 12:33:43+00:00,1.9428571428571428
+markshevchenko,Mark Shevchenko,,"Moscow, Russia",,False,,22,68,0,2015-01-21 20:18:22+00:00,68.0
+nekitdev,Nikita Tikhonov,MELODYKIT,"Moscow, Russia",nekit@nekit.dev,True,"Building awesome software. CEO of @MelodyKit, Software Developer, INFP.",24,67,16,2018-09-25 19:59:20+00:00,3.9411764705882355
+konstantinpavlikhin,Konstantin Pavlikhin,INDIE MAC DEVELOPER,"Moscow, Russia",k.pavlikhin@gmail.com,False,"Indie Mac Developer.
+",10,67,313,2011-09-17 17:28:14+00:00,0.21337579617834396
+egormkn,Egor Makarenko,YANDEX,"Moscow / Tyumen, Russia",egormkn@yandex.ru,True,,71,67,106,2014-04-04 16:42:25+00:00,0.6261682242990654
+demist,Nikita Starichkov,1C COMPANY,"Moscow, Russia",,False,"1C, MIPT, HSE",10,67,0,2014-03-26 16:37:41+00:00,67.0
+sergio-fry,Sergei O. Udalov,ECOM.TECH,"Balashiha, Moscow",udalov.x@mail.ru,False,,142,67,35,2009-04-05 21:06:21+00:00,1.8611111111111112
+0Nera,Aren Elchinyan,SYNAPSE-OS,Moscow,a2.dev@yandex.ru,True,Я программист из России. Занимаюсь разработкой операционных систем и различных проектов.,42,67,25,2020-09-19 02:26:48+00:00,2.576923076923077
+vlarine,Vladimir Larin,OPEN DATA SCIENCE,"Moscow, Russia",vlarine@gmail.com,False,,16,66,1,2015-01-23 12:58:30+00:00,33.0
+michaelbel,Michael Bely,,Moscow,michael-bel@outlook.com,True,Android & Kotlin problem solver,17,66,115,2015-11-25 17:03:52+00:00,0.5689655172413793
+iqzmn,Igor Kuzmin,,"Moscow, Russia",,False,Data Analyst,8,66,65,2015-11-10 12:55:56+00:00,1.0
+CollectionBuilder,CollectionBuilder,,"Moscow, Idaho",collectionbuilder.team@gmail.com,False,Jekyll-based templates for building digital collections and exhibits exploring static web solutions for libraries,24,66,0,2018-05-04 19:51:47+00:00,66.0
+gthdeiby,Dmitry Pervushin,,Moscow,,False,,13,66,68,2017-10-06 13:12:42+00:00,0.9565217391304348
+ilya16,Ilya Borovik,,"Moscow, Russia",ilyaborovik97@gmail.com,False,PhD student at Skoltech: music generation / text-to-speech synthesis.,29,66,26,2016-10-16 20:48:20+00:00,2.4444444444444446
+m-maksyutin,,,Moscow,,False,,2,66,0,2017-06-05 11:50:59+00:00,66.0
+webistomin,Alexey Istomin,OZONTECH,"Russia, Moscow",webistomin@gmail.com,False,"@ozontech by day, @github by night.
 
 Working towards making the web more accessible and performant.
 
-",53,66,102,2017-07-26T17:21:43Z
-spoter,Peter Rastorguev,,Moscow,spoter@mail.ru,,,5,66,2,2015-07-22T23:23:59Z
-nonitut,Nona,,Moscow,,,Teacher in Digital 🧠👩🏽‍💻,115,66,170,2021-07-13T14:46:00Z
-coagulant,Ilya Baryshev,MYBOOK,Moscow,,,,100,66,26,2010-09-17T12:45:00Z
-Filin1985,Marat Ikhsanov,,Moscow,m.ihsanov2009@yandex.ru,True,,43,66,46,2016-01-06T10:04:16Z
-silentroach,Kalashnikov Igor,,"Moscow, Russia",igor.kalashnikov@me.com,True,,29,66,52,2009-12-13T00:39:05Z
-maxter9595,Maxim Terletskiy,,Moscow,,,,58,65,111,2019-06-03T13:06:31Z
-darky,Vladislav Botvin,,Moscow,darkvlados@gmail.com,, ̶O̶c̶e̶a̶n̶'̶s̶ Linus Eleven,177,65,104,2012-06-09T06:52:57Z
-VN0,Young Developer,KEE TEAM,"Russia, Moscow",,,=D,751,65,35,2018-03-08T12:04:10Z
-acmi,Aleksei Sazonov,,"Moscow, Russia",acmi831@gmail.com,,,67,65,3,2012-11-03T00:19:05Z
-fbkcs,FBK CyberSecurity,,Moscow,,,"Information Security Company.
-since 2018",7,64,3,2018-11-12T12:45:44Z
-egorkhmelev,Egor Khmelev,SWEATCO,Moscow,,,"CTO at Sweatcoin — app which converts movement into a currency that you can spend on real life goods, service and experiences, and makes movement more rewarding",23,64,7,2008-12-13T11:12:26Z
-AnastasiyaMax,Anastasiya,SBERBANK,Moscow,nastyamaximovskaya@gmail.com,,Analytics TeamLead @ Ozon / Lecturer @ NRU HSE / Ex MLE @ SBER,10,64,22,2016-09-16T16:30:50Z
-beefon,Vladislav Alekseev,,Moscow,,,,11,64,16,2011-02-27T09:36:26Z
-Cheerfultourist,Cheerful tourist,SELF EMPLOYED,Moscow,,,"I'm a woman )))
-Coin Side...",0,64,53,2023-06-14T14:55:36Z
-TheMaxMur,MaxMur,CODING FOR FUN,Moscow,,,UHl0aG9uL2Jhc2ggY29kZXIuCg==,29,64,46,2017-08-20T17:53:10Z
-Bahus,Churkin Oleg,,"Moscow, Russia",,,,32,64,0,2010-07-03T08:44:21Z
-pumano,Dmitry Zakharov,,"Moscow, Russia",pumano@gmail.com,,"Angular, Vue, React, NodeJS, TypeScript,  Java, Flutter, DevOps, Testing",51,64,87,2016-03-05T15:46:55Z
-timmson,Artem Krotov,,"Moscow, Russia",,,Developer & Scrum Master,76,63,31,2013-01-11T23:18:05Z
-alexeyr,Alexey Romanov,SHAKACODE,"Moscow, Russia",alexey.v.romanov@gmail.com,,,65,63,3,2008-09-15T20:23:58Z
-c-villain,Alexander Kraev,,"Moscow, Russia",lexkraev@gmail.com,,IT Lead | Mobile Engineer | Creator | Open Source Author | Rock 'n' roll 🤘🏻,46,63,13,2013-12-21T09:00:04Z
-promoscow,Vyacheslav Chernyshoff,SBER.RU,Moscow,slava_rossii@list.ru,True,"Backend developer. Java / Kotlin, Android (optional).",66,63,0,2016-11-08T20:42:07Z
-Pekshev,Modis,MODPLUS,"Moscow, Russion Federation",cjmodis@gmail.com,,,9,63,1,2015-05-28T07:02:41Z
-Lurker00,,,"Moscow, Russia",,,,20,63,0,2014-09-06T16:33:16Z
-Mazdaywik,Alexander Konovalov,BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY (BMSTU),"Moscow, Russia",,,BMSTU @bmstu-iu9 teacher and C and Refal programmer,32,63,28,2012-01-06T17:01:57Z
-bmstu-iu9,"BMSTU Department of Computer Science and Technologies (IU9, ИУ9)",,"Bauman Moscow State Technical University, Moscow, Russia",,,Учебные материалы и программные проекты студентов и преподавателей,124,63,0,2016-07-28T20:33:32Z
-40ants,40 Ants,,Moscow,,,Together we'll make Common Lisp ecosystem better!,138,63,0,2011-12-21T09:03:20Z
-vadim-hunter,Vadim-Hunter,,Moscow,,,Threat Hunter by birth.,3,63,0,2019-04-29T08:25:43Z
-vadv,vadv,OZON,Moscow,vadv.mkn@gmail.com,,Dmitry Vasiliev,94,62,13,2010-12-28T20:22:10Z
-artemmad,,REALITYFAMILY,Moscow,artemmakarevich1997@gmail.com,,,90,62,12,2016-12-01T14:04:26Z
-sin-diesel,Stanislav Sidelnikov,,"Moscow, Dolgoprudny",sidelnikov.si.001@gmail.com,,,85,62,52,2019-03-19T20:27:07Z
-dmdin,Dmitriy Din,"SBERMARKETING, NUST MISIS, 2D-TEAM","Russia, Moscow",dmitriy1d01@gmail.com,,"The Jedi, who loves Data Science🔬 and Full-Stack development💻",46,62,42,2017-02-08T14:18:23Z
-toshunster,Anton Kukhtichev,,"Moscow, Russia",a.kukhtichev@mail.ru,,,14,62,7,2014-07-07T18:16:19Z
-nda17,Dmitry Nefedov,,Moscow,khv1702@gmail.com,,Fullstack web developer,23,62,56,2022-04-20T13:59:54Z
-ivan-nginx,Ivan.Nginx,THEME-NEXT,"Russia, Moscow",ivan.nginx@gmail.com,True,https://t.me/ivan_nginx,24,62,10,2016-01-28T19:20:47Z
-AlexWayfer,Alexander Popov,FLANT,Moscow,alex.wayfer@gmail.com,True,,260,62,19,2014-01-27T00:33:58Z
-dDanissimo,Daniil Ivankin,YANDEX,"Moscow, Russia",,,Intern Security Engineer @ Yandex,7,62,31,2019-10-01T07:46:10Z
-win0err,Sergei Kolesnikov,VKCOM,"Moscow, Russia",,True,"Developer, developer, developer",19,62,61,2015-03-02T19:42:14Z
-ermine,Anastasia Gornostaeva,,"Moscow, Russia",,,,23,62,5,2009-09-04T11:55:33Z
-letenkov,Eugene Letenkov,LETENKOV,Moscow,eugene@letenkov.ru,True,Software Engineer Expert (DevOps),226,61,411,2011-08-07T17:08:28Z
-ra1nbow1,Matvey Romanov,RA1NBOW1,"Moscow, Russia",,True,Fullstack web developer,24,61,0,2018-04-14T18:51:20Z
-melixz,Vlad Melix,,Moscow ,dr.melix@gmail.com,,"Self-taught and perpetually curious, crafting code to connect dots and solve puzzles.",29,61,44,2023-08-08T21:42:05Z
-flexferrum,Flex Ferrum,,Moscow,flexferrum@gmail.com,,C++ source code generation and metaprogramming geek,18,61,27,2012-03-02T19:48:45Z
-Arseny5,Arseny Ivanov,SKOLTECH X HSE,"Moscow, Russia",,,Master's student at Skoltech and HSE | Generative models and Multimodal foundations |  Founder AI Knowledge Club,24,61,138,2020-10-20T14:29:12Z
-sergei-romanenko,Sergei Romanenko,KELDYSH INSTITUTE OF APPLIED MATHEMATICS,"Moscow, Russia",,,,50,60,27,2010-04-28T13:05:32Z
-Babyface2003,Ivan,,"Russian,Moscow",,,,17,60,59,2022-03-04T18:15:38Z
-AnnaCVrecruitment,Kirova Ann,,Moscow,,,Frontend developer,14,60,96,2020-04-22T09:36:35Z
-GreLI,Lev Solntsev,,Moscow,,,,12,60,0,2012-02-23T22:33:11Z
-a4tunado,Vyacheslav Murashkin,,"Moscow, Russia",mvjacheslav@gmail.com,,,19,59,65,2010-08-20T20:47:05Z
-evg-goncharenko,Evgeny Goncharenko,LOMONOSOV MOSCOW STATE UNIVERSITY,"Moscow, Russia",gee.github@gmail.com,,,7,59,70,2018-02-06T14:40:13Z
-stardog-union,Stardog Union,,"DC, Boston, Heidelberg, Hawaii, Moscow, Madison, Houston, Pittsburgh, etc.",inquiries@stardog.com,,"We make ⭐️🐶, the Enterprise Knowledge Graph",66,59,0,2013-02-01T18:52:14Z
-FenX08,Richard Chirkin,,"Moscow, Russia",,,,1,59,2,2017-04-03T08:54:18Z
-Riateche,Pavel Strakhov,MOSCOW INSTITUTE OF PHYSICS AND TECHNOLOGY,Moscow,ri@idzaaus.org,,,40,59,5,2012-05-15T03:54:17Z
-v-goncharenko,Vladislav Goncharenko,GIRAFE-AI,Moscow,,,,18,59,0,2016-05-02T17:22:02Z
-askras,Alexander Krasnikov,,Moscow,,,,30,59,1,2013-08-16T18:55:47Z
-mis-team,M13 Information Security,M13,"Moscow, Russia",,,"WhiteBox/Blackbox Pentesters
+",53,66,102,2017-07-26 17:21:43+00:00,0.6407766990291263
+spoter,Peter Rastorguev,,Moscow,spoter@mail.ru,False,,5,66,2,2015-07-22 23:23:59+00:00,22.0
+nonitut,Nona,,Moscow,,False,Teacher in Digital 🧠👩🏽‍💻,115,66,170,2021-07-13 14:46:00+00:00,0.38596491228070173
+coagulant,Ilya Baryshev,MYBOOK,Moscow,,False,,100,66,26,2010-09-17 12:45:00+00:00,2.4444444444444446
+Filin1985,Marat Ikhsanov,,Moscow,m.ihsanov2009@yandex.ru,True,,43,66,46,2016-01-06 10:04:16+00:00,1.4042553191489362
+silentroach,Kalashnikov Igor,,"Moscow, Russia",igor.kalashnikov@me.com,True,,29,66,52,2009-12-13 00:39:05+00:00,1.2452830188679245
+maxter9595,Maxim Terletskiy,,Moscow,,False,,58,65,111,2019-06-03 13:06:31+00:00,0.5803571428571429
+darky,Vladislav Botvin,,Moscow,darkvlados@gmail.com,False, ̶O̶c̶e̶a̶n̶'̶s̶ Linus Eleven,177,65,104,2012-06-09 06:52:57+00:00,0.6190476190476191
+VN0,Young Developer,KEE TEAM,"Russia, Moscow",,False,=D,751,65,35,2018-03-08 12:04:10+00:00,1.8055555555555556
+acmi,Aleksei Sazonov,,"Moscow, Russia",acmi831@gmail.com,False,,67,65,3,2012-11-03 00:19:05+00:00,16.25
+fbkcs,FBK CyberSecurity,,Moscow,,False,"Information Security Company.
+since 2018",7,64,3,2018-11-12 12:45:44+00:00,16.0
+egorkhmelev,Egor Khmelev,SWEATCO,Moscow,,False,"CTO at Sweatcoin — app which converts movement into a currency that you can spend on real life goods, service and experiences, and makes movement more rewarding",23,64,7,2008-12-13 11:12:26+00:00,8.0
+AnastasiyaMax,Anastasiya,SBERBANK,Moscow,nastyamaximovskaya@gmail.com,False,Analytics TeamLead @ Ozon / Lecturer @ NRU HSE / Ex MLE @ SBER,10,64,22,2016-09-16 16:30:50+00:00,2.782608695652174
+beefon,Vladislav Alekseev,,Moscow,,False,,11,64,16,2011-02-27 09:36:26+00:00,3.764705882352941
+Cheerfultourist,Cheerful tourist,SELF EMPLOYED,Moscow,,False,"I'm a woman )))
+Coin Side...",0,64,53,2023-06-14 14:55:36+00:00,1.1851851851851851
+TheMaxMur,MaxMur,CODING FOR FUN,Moscow,,False,UHl0aG9uL2Jhc2ggY29kZXIuCg==,29,64,46,2017-08-20 17:53:10+00:00,1.3617021276595744
+Bahus,Churkin Oleg,,"Moscow, Russia",,False,,32,64,0,2010-07-03 08:44:21+00:00,64.0
+pumano,Dmitry Zakharov,,"Moscow, Russia",pumano@gmail.com,False,"Angular, Vue, React, NodeJS, TypeScript,  Java, Flutter, DevOps, Testing",51,64,87,2016-03-05 15:46:55+00:00,0.7272727272727273
+timmson,Artem Krotov,,"Moscow, Russia",,False,Developer & Scrum Master,76,63,31,2013-01-11 23:18:05+00:00,1.96875
+alexeyr,Alexey Romanov,SHAKACODE,"Moscow, Russia",alexey.v.romanov@gmail.com,False,,65,63,3,2008-09-15 20:23:58+00:00,15.75
+c-villain,Alexander Kraev,,"Moscow, Russia",lexkraev@gmail.com,False,IT Lead | Mobile Engineer | Creator | Open Source Author | Rock 'n' roll 🤘🏻,46,63,13,2013-12-21 09:00:04+00:00,4.5
+promoscow,Vyacheslav Chernyshoff,SBER.RU,Moscow,slava_rossii@list.ru,True,"Backend developer. Java / Kotlin, Android (optional).",66,63,0,2016-11-08 20:42:07+00:00,63.0
+Pekshev,Modis,MODPLUS,"Moscow, Russion Federation",cjmodis@gmail.com,False,,9,63,1,2015-05-28 07:02:41+00:00,31.5
+Lurker00,,,"Moscow, Russia",,False,,20,63,0,2014-09-06 16:33:16+00:00,63.0
+Mazdaywik,Alexander Konovalov,BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY (BMSTU),"Moscow, Russia",,False,BMSTU @bmstu-iu9 teacher and C and Refal programmer,32,63,28,2012-01-06 17:01:57+00:00,2.1724137931034484
+bmstu-iu9,"BMSTU Department of Computer Science and Technologies (IU9, ИУ9)",,"Bauman Moscow State Technical University, Moscow, Russia",,False,Учебные материалы и программные проекты студентов и преподавателей,124,63,0,2016-07-28 20:33:32+00:00,63.0
+40ants,40 Ants,,Moscow,,False,Together we'll make Common Lisp ecosystem better!,138,63,0,2011-12-21 09:03:20+00:00,63.0
+vadim-hunter,Vadim-Hunter,,Moscow,,False,Threat Hunter by birth.,3,63,0,2019-04-29 08:25:43+00:00,63.0
+vadv,vadv,OZON,Moscow,vadv.mkn@gmail.com,False,Dmitry Vasiliev,94,62,13,2010-12-28 20:22:10+00:00,4.428571428571429
+artemmad,,REALITYFAMILY,Moscow,artemmakarevich1997@gmail.com,False,,90,62,12,2016-12-01 14:04:26+00:00,4.769230769230769
+sin-diesel,Stanislav Sidelnikov,,"Moscow, Dolgoprudny",sidelnikov.si.001@gmail.com,False,,85,62,52,2019-03-19 20:27:07+00:00,1.169811320754717
+dmdin,Dmitriy Din,"SBERMARKETING, NUST MISIS, 2D-TEAM","Russia, Moscow",dmitriy1d01@gmail.com,False,"The Jedi, who loves Data Science🔬 and Full-Stack development💻",46,62,42,2017-02-08 14:18:23+00:00,1.441860465116279
+toshunster,Anton Kukhtichev,,"Moscow, Russia",a.kukhtichev@mail.ru,False,,14,62,7,2014-07-07 18:16:19+00:00,7.75
+nda17,Dmitry Nefedov,,Moscow,khv1702@gmail.com,False,Fullstack web developer,23,62,56,2022-04-20 13:59:54+00:00,1.087719298245614
+ivan-nginx,Ivan.Nginx,THEME-NEXT,"Russia, Moscow",ivan.nginx@gmail.com,True,https://t.me/ivan_nginx,24,62,10,2016-01-28 19:20:47+00:00,5.636363636363637
+AlexWayfer,Alexander Popov,FLANT,Moscow,alex.wayfer@gmail.com,True,,260,62,19,2014-01-27 00:33:58+00:00,3.1
+dDanissimo,Daniil Ivankin,YANDEX,"Moscow, Russia",,False,Intern Security Engineer @ Yandex,7,62,31,2019-10-01 07:46:10+00:00,1.9375
+win0err,Sergei Kolesnikov,VKCOM,"Moscow, Russia",,True,"Developer, developer, developer",19,62,61,2015-03-02 19:42:14+00:00,1.0
+ermine,Anastasia Gornostaeva,,"Moscow, Russia",,False,,23,62,5,2009-09-04 11:55:33+00:00,10.333333333333334
+letenkov,Eugene Letenkov,LETENKOV,Moscow,eugene@letenkov.ru,True,Software Engineer Expert (DevOps),226,61,411,2011-08-07 17:08:28+00:00,0.14805825242718446
+ra1nbow1,Matvey Romanov,RA1NBOW1,"Moscow, Russia",,True,Fullstack web developer,24,61,0,2018-04-14 18:51:20+00:00,61.0
+melixz,Vlad Melix,,Moscow ,dr.melix@gmail.com,False,"Self-taught and perpetually curious, crafting code to connect dots and solve puzzles.",29,61,44,2023-08-08 21:42:05+00:00,1.3555555555555556
+flexferrum,Flex Ferrum,,Moscow,flexferrum@gmail.com,False,C++ source code generation and metaprogramming geek,18,61,27,2012-03-02 19:48:45+00:00,2.1785714285714284
+Arseny5,Arseny Ivanov,SKOLTECH X HSE,"Moscow, Russia",,False,Master's student at Skoltech and HSE | Generative models and Multimodal foundations |  Founder AI Knowledge Club,24,61,138,2020-10-20 14:29:12+00:00,0.43884892086330934
+sergei-romanenko,Sergei Romanenko,KELDYSH INSTITUTE OF APPLIED MATHEMATICS,"Moscow, Russia",,False,,50,60,27,2010-04-28 13:05:32+00:00,2.142857142857143
+Babyface2003,Ivan,,"Russian,Moscow",,False,,17,60,59,2022-03-04 18:15:38+00:00,1.0
+AnnaCVrecruitment,Kirova Ann,,Moscow,,False,Frontend developer,14,60,96,2020-04-22 09:36:35+00:00,0.6185567010309279
+GreLI,Lev Solntsev,,Moscow,,False,,12,60,0,2012-02-23 22:33:11+00:00,60.0
+a4tunado,Vyacheslav Murashkin,,"Moscow, Russia",mvjacheslav@gmail.com,False,,19,59,65,2010-08-20 20:47:05+00:00,0.8939393939393939
+evg-goncharenko,Evgeny Goncharenko,LOMONOSOV MOSCOW STATE UNIVERSITY,"Moscow, Russia",gee.github@gmail.com,False,,7,59,70,2018-02-06 14:40:13+00:00,0.8309859154929577
+stardog-union,Stardog Union,,"DC, Boston, Heidelberg, Hawaii, Moscow, Madison, Houston, Pittsburgh, etc.",inquiries@stardog.com,False,"We make ⭐️🐶, the Enterprise Knowledge Graph",66,59,0,2013-02-01 18:52:14+00:00,59.0
+FenX08,Richard Chirkin,,"Moscow, Russia",,False,,1,59,2,2017-04-03 08:54:18+00:00,19.666666666666668
+Riateche,Pavel Strakhov,MOSCOW INSTITUTE OF PHYSICS AND TECHNOLOGY,Moscow,ri@idzaaus.org,False,,40,59,5,2012-05-15 03:54:17+00:00,9.833333333333334
+v-goncharenko,Vladislav Goncharenko,GIRAFE-AI,Moscow,,False,,18,59,0,2016-05-02 17:22:02+00:00,59.0
+askras,Alexander Krasnikov,,Moscow,,False,,30,59,1,2013-08-16 18:55:47+00:00,29.5
+mis-team,M13 Information Security,M13,"Moscow, Russia",,False,"WhiteBox/Blackbox Pentesters
 RedTeamers
 Security researchers
-",24,58,0,2018-10-17T09:36:31Z
-vanadium23,Ivan Chernov,OSTROVOK.RU,"Russia, Moscow",chernoffivan@gmail.com,,Junior CTO,89,58,31,2012-11-23T16:17:52Z
-MoonW1nd,Alexander Ivankov,YANDEX,Moscow,AlexanderIvankoff@gmail.com,True,Software Developer,41,58,113,2016-11-24T02:21:26Z
-idfumg,Artem Pushkin,SIRENA-TRAVEL,"Moscow, Russia",idfumg@gmail.com,True,Senior Software Developer,125,58,5,2014-08-14T12:02:48Z
-egor-baranov,Egor Baranov,SBER,Moscow,,,system designer,32,58,72,2019-04-20T13:13:38Z
-zinigor,Igor Zinovyev,,"Moscow, Russian Federation",,,,22,58,12,2010-08-24T06:46:13Z
-ufukkirmizigedik,Ufuk Kirmizigedik,UFUKKIRMIZIGEDIK1984@GMAIL.COM,Moscow,,,"Electronics Engineer & Data Scientist | Passionate about Python, Data Science, and Robotics
-",13,58,58,2020-06-25T13:46:25Z
+",24,58,0,2018-10-17 09:36:31+00:00,58.0
+vanadium23,Ivan Chernov,OSTROVOK.RU,"Russia, Moscow",chernoffivan@gmail.com,False,Junior CTO,89,58,31,2012-11-23 16:17:52+00:00,1.8125
+MoonW1nd,Alexander Ivankov,YANDEX,Moscow,AlexanderIvankoff@gmail.com,True,Software Developer,41,58,113,2016-11-24 02:21:26+00:00,0.5087719298245614
+idfumg,Artem Pushkin,SIRENA-TRAVEL,"Moscow, Russia",idfumg@gmail.com,True,Senior Software Developer,125,58,5,2014-08-14 12:02:48+00:00,9.666666666666666
+egor-baranov,Egor Baranov,SBER,Moscow,,False,system designer,32,58,72,2019-04-20 13:13:38+00:00,0.7945205479452054
+zinigor,Igor Zinovyev,,"Moscow, Russian Federation",,False,,22,58,12,2010-08-24 06:46:13+00:00,4.461538461538462
+ufukkirmizigedik,Ufuk Kirmizigedik,UFUKKIRMIZIGEDIK1984@GMAIL.COM,Moscow,,False,"Electronics Engineer & Data Scientist | Passionate about Python, Data Science, and Robotics
+",13,58,58,2020-06-25 13:46:25+00:00,0.9830508474576272
 kondratevakate,Ekaterina Kondrateva,SKOLTECH,Moscow,,True,"4th year Ph.D. candidate in Skoltech, Moscow. Computer vision, Medical imaging, statistics and visual
 🤤 
-",33,58,22,2017-12-01T09:32:21Z
-ScarletSurge,Ilya Irbitskiy,,"Moscow, Russia",scarletsurge.w@gmail.com,,,6,58,0,2018-05-05T20:03:39Z
-alex19EP,Alexander Epaneshnikov,,"Russia, Moscow",email@alex19ep.me,True,,17,58,40,2013-06-30T08:21:31Z
-WLM1ke,WLMike,,Moscow,,,,22,57,20,2018-01-10T16:13:42Z
-DariaMishina,DariaMishina,,Moscow,,,Data Science | Python | Machine Learning | NLP,20,57,67,2020-02-16T17:27:53Z
-loguncov,Maxim Loguncov,,Moscow,,True,,13,57,28,2013-03-12T04:27:45Z
-hevav,Petr Ilin,ELYTRIUM,"Moscow, Russia",work@hevav.dev,True,@Elytrium Founder,5,57,3,2015-09-28T16:23:11Z
-naithar,Sergey Minakov,,Moscow,naithar@icloud.com,,༼ つ ◕_◕ ༽つ,110,57,28,2013-03-02T17:55:18Z
-mattymo,Matthew Mosesohn,,"Moscow, Russia",matthew.mosesohn@gmail.com,,,106,57,1,2011-11-29T20:39:09Z
-snk4tr,Sergey Kastryulin,"YANDEX RESEARCH, SKOLTECH","Moscow, Russia",snk4tr@gmail.com,True,Research Scientist 🤓,12,57,48,2017-01-06T13:21:46Z
-Ink0gnit0,Ink0gnit0 !,,"Moscow, Russia",,,,3,57,1,2012-03-08T19:09:28Z
-rwsh,Roman Shamin,МГУУ ПРАВИТЕЛЬСТВА МОСКВЫ,Moscow,roman@shamin.ru,,"Доктор физико-математических наук,
-Заведующий кафедрой информационных технологий и математики Университета Правительства Москвы.",58,57,0,2012-05-26T12:10:10Z
-aleksandr-kotlyar,Aleksandr Kotlyar,,"Dolgoprudny, Moscow, Russia",,,Software Test Engineer,29,57,33,2016-02-03T10:29:42Z
-chibisov,Gennady Chibisov,YANDEX,Moscow,,True,,30,57,6,2010-12-14T10:01:23Z
-vanyasem,Ivan Semkin,,"Moscow, Russia",ivan@semkin.ru,,Flutter Developer,47,57,30,2015-07-15T13:21:40Z
-vaban-ru,Vladimir Banduristov,BEELINE,"Russia, Moscow",vtboren56@yandex.ru,True,Frontend Lead in beeline,21,56,215,2017-09-15T04:46:23Z
-viktor-prutyanov,Viktor Prutyanov,,"Moscow, Russia",,,"Software Engineer.
+",33,58,22,2017-12-01 09:32:21+00:00,2.5217391304347827
+ScarletSurge,Ilya Irbitskiy,,"Moscow, Russia",scarletsurge.w@gmail.com,False,,6,58,0,2018-05-05 20:03:39+00:00,58.0
+alex19EP,Alexander Epaneshnikov,,"Russia, Moscow",email@alex19ep.me,True,,17,58,40,2013-06-30 08:21:31+00:00,1.4146341463414633
+WLM1ke,WLMike,,Moscow,,False,,22,57,20,2018-01-10 16:13:42+00:00,2.7142857142857144
+DariaMishina,DariaMishina,,Moscow,,False,Data Science | Python | Machine Learning | NLP,20,57,67,2020-02-16 17:27:53+00:00,0.8382352941176471
+loguncov,Maxim Loguncov,,Moscow,,True,,13,57,28,2013-03-12 04:27:45+00:00,1.9655172413793103
+hevav,Petr Ilin,ELYTRIUM,"Moscow, Russia",work@hevav.dev,True,@Elytrium Founder,5,57,3,2015-09-28 16:23:11+00:00,14.25
+naithar,Sergey Minakov,,Moscow,naithar@icloud.com,False,༼ つ ◕_◕ ༽つ,110,57,28,2013-03-02 17:55:18+00:00,1.9655172413793103
+mattymo,Matthew Mosesohn,,"Moscow, Russia",matthew.mosesohn@gmail.com,False,,106,57,1,2011-11-29 20:39:09+00:00,28.5
+snk4tr,Sergey Kastryulin,"YANDEX RESEARCH, SKOLTECH","Moscow, Russia",snk4tr@gmail.com,True,Research Scientist 🤓,12,57,48,2017-01-06 13:21:46+00:00,1.163265306122449
+Ink0gnit0,Ink0gnit0 !,,"Moscow, Russia",,False,,3,57,1,2012-03-08 19:09:28+00:00,28.5
+rwsh,Roman Shamin,МГУУ ПРАВИТЕЛЬСТВА МОСКВЫ,Moscow,roman@shamin.ru,False,"Доктор физико-математических наук,
+Заведующий кафедрой информационных технологий и математики Университета Правительства Москвы.",58,57,0,2012-05-26 12:10:10+00:00,57.0
+aleksandr-kotlyar,Aleksandr Kotlyar,,"Dolgoprudny, Moscow, Russia",,False,Software Test Engineer,29,57,33,2016-02-03 10:29:42+00:00,1.6764705882352942
+chibisov,Gennady Chibisov,YANDEX,Moscow,,True,,30,57,6,2010-12-14 10:01:23+00:00,8.142857142857142
+vanyasem,Ivan Semkin,,"Moscow, Russia",ivan@semkin.ru,False,Flutter Developer,47,57,30,2015-07-15 13:21:40+00:00,1.8387096774193548
+vaban-ru,Vladimir Banduristov,BEELINE,"Russia, Moscow",vtboren56@yandex.ru,True,Frontend Lead in beeline,21,56,215,2017-09-15 04:46:23+00:00,0.25925925925925924
+viktor-prutyanov,Viktor Prutyanov,,"Moscow, Russia",,False,"Software Engineer.
 QEMU/elf2dmp maintainer.
-",70,56,5,2014-07-28T06:37:03Z
-magna-z,Maxim Zalysin,,"Moscow, Russia",zalysin.m@gmail.com,,Development & Operations & Management,47,56,0,2013-10-16T12:38:04Z
-evgps,Evgeny Ponomarev,SBER ROBOTICS,"Moscow, Russia",,,,37,56,7,2013-10-06T11:00:45Z
-mobile-sergey,Sergey Lavrov,,Moscow,lavrov-sergey@yandex.ru,,Android/iOS developer,70,56,76,2011-10-23T17:46:42Z
-skeeks-semenov,Semenov Alexander,SKEEKS,Moscow,semenov@skeeks.com,True,Web developer (frontend + backend),91,56,5,2014-10-14T07:02:39Z
-flexagoon,Pavel Zolotarevskiy,CHFTM,"Moscow, Russia",code@fxgn.dev,,"You've probably seen me somewhere on the internet before, but it wasn't significant enough to remember.",33,56,60,2020-05-30T17:36:22Z
-elephantmipt,Nikita Balagansky,TINKOFF AI,Moscow,,,"Interested in data visualization, NLP and bayesian approach",41,55,9,2018-03-28T21:19:12Z
-RusAnonym,rus_anonym,RUS-ANONYM,"Moscow, Russia",rus_cybersec@vk.com,,,4,55,62,2018-11-29T17:02:28Z
+",70,56,5,2014-07-28 06:37:03+00:00,9.333333333333334
+magna-z,Maxim Zalysin,,"Moscow, Russia",zalysin.m@gmail.com,False,Development & Operations & Management,47,56,0,2013-10-16 12:38:04+00:00,56.0
+evgps,Evgeny Ponomarev,SBER ROBOTICS,"Moscow, Russia",,False,,37,56,7,2013-10-06 11:00:45+00:00,7.0
+mobile-sergey,Sergey Lavrov,,Moscow,lavrov-sergey@yandex.ru,False,Android/iOS developer,70,56,76,2011-10-23 17:46:42+00:00,0.7272727272727273
+skeeks-semenov,Semenov Alexander,SKEEKS,Moscow,semenov@skeeks.com,True,Web developer (frontend + backend),91,56,5,2014-10-14 07:02:39+00:00,9.333333333333334
+flexagoon,Pavel Zolotarevskiy,CHFTM,"Moscow, Russia",code@fxgn.dev,False,"You've probably seen me somewhere on the internet before, but it wasn't significant enough to remember.",33,56,60,2020-05-30 17:36:22+00:00,0.9180327868852459
+elephantmipt,Nikita Balagansky,TINKOFF AI,Moscow,,False,"Interested in data visualization, NLP and bayesian approach",41,55,9,2018-03-28 21:19:12+00:00,5.5
+RusAnonym,rus_anonym,RUS-ANONYM,"Moscow, Russia",rus_cybersec@vk.com,False,,4,55,62,2018-11-29 17:02:28+00:00,0.873015873015873
 kaparray,Kirill,,Moscow,kaparray@gmail.com,True,"Mobile engineer.
-iOS/Android developer.",21,55,26,2017-08-22T21:38:22Z
-andriygav,Andrii Hraboviy,,Moscow,,,,28,55,6,2018-01-26T09:14:06Z
-redsun9,Vladimir,,Moscow,,,Java Developer,9,55,62,2013-03-17T17:07:11Z
-stolen,Danil Zagoskin,ERLYVIDEO,"Moscow, Russia",z@gosk.in,,,59,55,10,2010-01-16T14:49:17Z
-borman,Mikhail Borisov,YANDEX,Moscow,borisov.mikhail@gmail.com,True,,38,55,62,2008-11-14T10:47:44Z
-vlasove,Evgeny Vlasov,,"Moscow,Russia",,True,Regular,49,55,3,2017-11-10T16:31:59Z
-elijahkash,Ilya Kashnitskiy,,"Russia, Moscow city",elijahkashnitskiy@ya.ru,True,software engineer,7,55,7,2019-07-16T22:26:15Z
-reverse-ex,Sergey Senin,,"Moscow, Russia",,,"Im a student of #BMSTU.
-Learn C\C++, also pentest.",454,55,123,2021-01-14T01:23:06Z
-JarvisCraft,Petr Portnov | PROgrm_JARvis,OZONRU @OZONTECH,"Moscow, Russia",mrJARVIScraft@gmail.com,,,76,55,77,2014-05-25T07:30:22Z
-levensta,Sergey Gorbachev,,Moscow,,,"@21-school & @42School alumnus,
-Frontend Engineer",25,54,27,2020-04-26T17:15:55Z
+iOS/Android developer.",21,55,26,2017-08-22 21:38:22+00:00,2.037037037037037
+andriygav,Andrii Hraboviy,,Moscow,,False,,28,55,6,2018-01-26 09:14:06+00:00,7.857142857142857
+redsun9,Vladimir,,Moscow,,False,Java Developer,9,55,62,2013-03-17 17:07:11+00:00,0.873015873015873
+stolen,Danil Zagoskin,ERLYVIDEO,"Moscow, Russia",z@gosk.in,False,,59,55,10,2010-01-16 14:49:17+00:00,5.0
+borman,Mikhail Borisov,YANDEX,Moscow,borisov.mikhail@gmail.com,True,,38,55,62,2008-11-14 10:47:44+00:00,0.873015873015873
+vlasove,Evgeny Vlasov,,"Moscow,Russia",,True,Regular,49,55,3,2017-11-10 16:31:59+00:00,13.75
+elijahkash,Ilya Kashnitskiy,,"Russia, Moscow city",elijahkashnitskiy@ya.ru,True,software engineer,7,55,7,2019-07-16 22:26:15+00:00,6.875
+reverse-ex,Sergey Senin,,"Moscow, Russia",,False,"Im a student of #BMSTU.
+Learn C\C++, also pentest.",454,55,123,2021-01-14 01:23:06+00:00,0.4435483870967742
+JarvisCraft,Petr Portnov | PROgrm_JARvis,OZONRU @OZONTECH,"Moscow, Russia",mrJARVIScraft@gmail.com,False,,76,55,77,2014-05-25 07:30:22+00:00,0.7051282051282052
+levensta,Sergey Gorbachev,,Moscow,,False,"@21-school & @42School alumnus,
+Frontend Engineer",25,54,27,2020-04-26 17:15:55+00:00,1.9285714285714286
 odnaks,Kseniya,,"Moscow, Russia",,True,"iOS dev;
-42: drestles",24,54,38,2018-09-21T14:25:15Z
-viocassel,Vio Cassel,VC,"Russia, Moscow",,True,Web Developer,83,54,73,2013-01-22T17:05:31Z
-goldlexx,Ruslan Yuldashev,,Moscow,me@juldashev.ru,,,23,54,65,2021-12-14T08:15:31Z
-AndrewSumin,Andrew Sumin,MAIL.RU,Moscow,andrewsumin@gmail.com,,CTO of Mail and Portal Services at Mail.Ru,17,54,3,2010-02-15T09:44:56Z
-justdmitry,Dmitry Popov,,"Moscow, Russia :(",,,,49,54,7,2013-02-12T10:17:06Z
-avasyukov,Alexey Vasyukov,,"Moscow, Russia",,,,29,54,10,2010-12-12T19:54:33Z
-TBXin,ReikoKitsune,,Moscow,,,,13,54,0,2011-12-05T17:30:33Z
-samolisov,Pavel Samolysov,,Moscow/Russia,samolisov@gmail.com,True,Compiler engineer. I like to work individually on actually complicated projects.,6,54,2,2009-10-02T10:27:05Z
-KotskinKotskin,Denis Kotov,,Moscow,,,"Camunda community award winner, Camunda champion. Deep inside BPM-theme, checkout my google-docs-for-bpmn service https://stormbpmn.com.",28,53,9,2017-08-23T21:05:08Z
-ErikPshat,ErikPshat,NONAME,Moscow,erik_pshat@list.ru,True,,86,53,3,2011-12-23T23:47:27Z
-Nakilon,Victor Maslov,,"Moscow, Russia",nakilon@gmail.com,True,,99,53,126,2012-11-23T10:00:23Z
+42: drestles",24,54,38,2018-09-21 14:25:15+00:00,1.3846153846153846
+viocassel,Vio Cassel,VC,"Russia, Moscow",,True,Web Developer,83,54,73,2013-01-22 17:05:31+00:00,0.7297297297297297
+goldlexx,Ruslan Yuldashev,,Moscow,me@juldashev.ru,False,,23,54,65,2021-12-14 08:15:31+00:00,0.8181818181818182
+AndrewSumin,Andrew Sumin,MAIL.RU,Moscow,andrewsumin@gmail.com,False,CTO of Mail and Portal Services at Mail.Ru,17,54,3,2010-02-15 09:44:56+00:00,13.5
+justdmitry,Dmitry Popov,,"Moscow, Russia :(",,False,,49,54,7,2013-02-12 10:17:06+00:00,6.75
+avasyukov,Alexey Vasyukov,,"Moscow, Russia",,False,,29,54,10,2010-12-12 19:54:33+00:00,4.909090909090909
+TBXin,ReikoKitsune,,Moscow,,False,,13,54,0,2011-12-05 17:30:33+00:00,54.0
+samolisov,Pavel Samolysov,,Moscow/Russia,samolisov@gmail.com,True,Compiler engineer. I like to work individually on actually complicated projects.,6,54,2,2009-10-02 10:27:05+00:00,18.0
+KotskinKotskin,Denis Kotov,,Moscow,,False,"Camunda community award winner, Camunda champion. Deep inside BPM-theme, checkout my google-docs-for-bpmn service https://stormbpmn.com.",28,53,9,2017-08-23 21:05:08+00:00,5.3
+ErikPshat,ErikPshat,NONAME,Moscow,erik_pshat@list.ru,True,,86,53,3,2011-12-23 23:47:27+00:00,13.25
+Nakilon,Victor Maslov,,"Moscow, Russia",nakilon@gmail.com,True,,99,53,126,2012-11-23 10:00:23+00:00,0.41732283464566927
 Kichkun,Anastasia Kishkun,SKOLTECH,Moscow,Kichkun@yandex.ru,True,"Skoltech PhD student in Mobile Robotics (Localization of autonomous vehicles by LiDARs/RGBD)
 Team Leader of the RHT.ai 
-Member of National Russian Hack Team",47,53,12,2014-12-17T13:10:54Z
-rockfridrich,Vadim,CO-FOUNDER AT @ZERIONTECH,Moscow,vadim@koleoshkin.com,,,13,53,50,2013-04-18T11:54:11Z
-kvichans,Andrey Kvichanskiy,,"Russia, Moscow",,,,46,53,0,2014-04-27T11:04:36Z
-fmaylinch,Ferran Maylinch,YANDEX,Moscow,ferranmaylinch@gmail.com,,Developer and teacher,98,53,6,2012-04-23T22:09:43Z
-quassnoi,Alex Bolenok,,"Moscow, Russia",,True,,12,53,0,2011-01-28T14:39:10Z
-kotborealis,kotborealis,LC,Moscow,kotborealis@awooo.ru,True,"cpp/js/py, web/native",137,52,111,2014-01-21T19:16:37Z
-jtprogru,Mikhail Savin,BEAR ON SERVER,"Russia, Moscow",,,#sre #devops #linux #ansible #terraform #python #golang #jtprogru #jtprog #macOS ,119,52,123,2014-07-18T07:46:58Z
-MirgradR,Ruslan Kuyanets,NONE,Krasnodar - Moscow,,,"Hi, i am Ruslan and i am 27 years old. I am from Russia, Krasnodar. I am a Fullstack developer. I like to study and improve myself. ",31,52,1,2021-03-24T16:04:21Z
-boomb0om,Igor Pavlov,XLABS-AI,"Moscow, Russia",,,MLE/DE,34,52,31,2017-04-10T13:56:22Z
-redzumi,Evgeny Bykovskikh,,"Moscow, Russia",redzumi.tao@gmail.com,True,/dev/redzumi,16,52,38,2016-08-04T20:09:32Z
-KurbanismailovZaur,Zaur Kurbanismailov,NUMBAGAMESTUDIO,Moscow,Kurbanismailov.92@gmail.com,,"Graduated from Dagestan State Technical University.
+Member of National Russian Hack Team",47,53,12,2014-12-17 13:10:54+00:00,4.076923076923077
+rockfridrich,Vadim,CO-FOUNDER AT @ZERIONTECH,Moscow,vadim@koleoshkin.com,False,,13,53,50,2013-04-18 11:54:11+00:00,1.0392156862745099
+kvichans,Andrey Kvichanskiy,,"Russia, Moscow",,False,,46,53,0,2014-04-27 11:04:36+00:00,53.0
+fmaylinch,Ferran Maylinch,YANDEX,Moscow,ferranmaylinch@gmail.com,False,Developer and teacher,98,53,6,2012-04-23 22:09:43+00:00,7.571428571428571
+quassnoi,Alex Bolenok,,"Moscow, Russia",,True,,12,53,0,2011-01-28 14:39:10+00:00,53.0
+kotborealis,kotborealis,LC,Moscow,kotborealis@awooo.ru,True,"cpp/js/py, web/native",137,52,111,2014-01-21 19:16:37+00:00,0.4642857142857143
+jtprogru,Mikhail Savin,BEAR ON SERVER,"Russia, Moscow",,False,#sre #devops #linux #ansible #terraform #python #golang #jtprogru #jtprog #macOS ,119,52,123,2014-07-18 07:46:58+00:00,0.41935483870967744
+MirgradR,Ruslan Kuyanets,NONE,Krasnodar - Moscow,,False,"Hi, i am Ruslan and i am 27 years old. I am from Russia, Krasnodar. I am a Fullstack developer. I like to study and improve myself. ",31,52,1,2021-03-24 16:04:21+00:00,26.0
+boomb0om,Igor Pavlov,XLABS-AI,"Moscow, Russia",,False,MLE/DE,34,52,31,2017-04-10 13:56:22+00:00,1.625
+redzumi,Evgeny Bykovskikh,,"Moscow, Russia",redzumi.tao@gmail.com,True,/dev/redzumi,16,52,38,2016-08-04 20:09:32+00:00,1.3333333333333333
+KurbanismailovZaur,Zaur Kurbanismailov,NUMBAGAMESTUDIO,Moscow,Kurbanismailov.92@gmail.com,False,"Graduated from Dagestan State Technical University.
 Make projects in Unity Engine.
-Write code in C#, C++ and python.",17,52,3,2013-09-02T13:15:52Z
-nekom113,AlexJSunder,,Moscow,,,,21,52,100,2018-09-17T07:39:08Z
+Write code in C#, C++ and python.",17,52,3,2013-09-02 13:15:52+00:00,13.0
+nekom113,AlexJSunder,,Moscow,,False,,21,52,100,2018-09-17 07:39:08+00:00,0.5148514851485149
 pavelkomiagin,Pavel Komiagin,NETOLOGY (HTTPS://NETOLOGY.RU),"Moscow, Russia",pavel.komiagin@gmail.com,True,"Software Engineer.
 Team Lead.
 JS, React, Redux.
-Remote",32,52,89,2011-05-16T09:21:57Z
-riffm,Tim Perevezentsev,STM,Moscow,riffm2005@gmail.com,,,14,51,22,2009-04-01T16:03:09Z
-victor-yacovlev,Victor Yacovlev,,Moscow,v.yacovlev@gmail.com,,,23,51,2,2012-02-15T14:31:53Z
-tavriaforever,Nickolay Ilchenko,YANDEX,Moscow,tavriaforever@yandex.ru,,Front-end developer at Yandex,87,51,6,2011-08-12T11:25:27Z
-jugatsu,Anton Kvashenkin,,Moscow,,True,,35,51,1,2012-08-29T18:13:16Z
-plastinin,Artem Plastinin,IT CAPITAL,"Moscow, Russia",a.plastinin@gmail.com,,"Тимлид, архитектор и руководитель практики",18,51,2,2015-04-12T11:37:33Z
-janvarev,Vladislav Janvarev,,"Moscow, Russia",,,,42,51,2,2016-04-11T08:59:41Z
-DimDimich-creator,Dmitry Kashirin,MPU UNIVERSITY,"Russia, Moscow",,,React enjoyer,24,51,85,2019-12-23T18:18:46Z
-mazzy-ax,mazzy,,Moscow,mazzy@mazzy.ru,,,35,51,108,2015-11-17T15:19:53Z
-jehy,Evgeny Bondarenko,,Moscow,,True,,155,51,29,2012-09-07T04:51:58Z
-makise-homura,Igor Molchanov,(UNDISCLOSED),"Russia, Moscow",,,"Developer (and stuff) primarily related to Elbrus CPU/platform.
+Remote",32,52,89,2011-05-16 09:21:57+00:00,0.5777777777777777
+riffm,Tim Perevezentsev,STM,Moscow,riffm2005@gmail.com,False,,14,51,22,2009-04-01 16:03:09+00:00,2.217391304347826
+victor-yacovlev,Victor Yacovlev,,Moscow,v.yacovlev@gmail.com,False,,23,51,2,2012-02-15 14:31:53+00:00,17.0
+tavriaforever,Nickolay Ilchenko,YANDEX,Moscow,tavriaforever@yandex.ru,False,Front-end developer at Yandex,87,51,6,2011-08-12 11:25:27+00:00,7.285714285714286
+jugatsu,Anton Kvashenkin,,Moscow,,True,,35,51,1,2012-08-29 18:13:16+00:00,25.5
+plastinin,Artem Plastinin,IT CAPITAL,"Moscow, Russia",a.plastinin@gmail.com,False,"Тимлид, архитектор и руководитель практики",18,51,2,2015-04-12 11:37:33+00:00,17.0
+janvarev,Vladislav Janvarev,,"Moscow, Russia",,False,,42,51,2,2016-04-11 08:59:41+00:00,17.0
+DimDimich-creator,Dmitry Kashirin,MPU UNIVERSITY,"Russia, Moscow",,False,React enjoyer,24,51,85,2019-12-23 18:18:46+00:00,0.5930232558139535
+mazzy-ax,mazzy,,Moscow,mazzy@mazzy.ru,False,,35,51,108,2015-11-17 15:19:53+00:00,0.46788990825688076
+jehy,Evgeny Bondarenko,,Moscow,,True,,155,51,29,2012-09-07 04:51:58+00:00,1.7
+makise-homura,Igor Molchanov,(UNDISCLOSED),"Russia, Moscow",,False,"Developer (and stuff) primarily related to Elbrus CPU/platform.
 
-If you want SSH to demo PCs based on Elbrus CPU, use https://elbrus.kurisa.ch",69,51,0,2015-12-28T13:44:00Z
-mkabischev,Mike Kabischev,OZONRU,Moscow,kabischev@gmail.com,,Head Of Platform @ozontech ,62,51,28,2011-06-21T13:54:12Z
-IsFilimonov,Ilia Filimonov,,"Moscow, Russian Federation",,True,"Data Warehouse, Business Intelligence: Data Enthusiast. Formerly team lead SAP BI\BW and later consultant in consulting. Footballer. Satirist. ",12,51,3,2017-03-08T16:47:09Z
-thekvs,Konstantin Sorokin,,"Moscow, Russia",kvs@sigterm.ru,True,,49,51,5,2010-03-07T17:07:25Z
+If you want SSH to demo PCs based on Elbrus CPU, use https://elbrus.kurisa.ch",69,51,0,2015-12-28 13:44:00+00:00,51.0
+mkabischev,Mike Kabischev,OZONRU,Moscow,kabischev@gmail.com,False,Head Of Platform @ozontech ,62,51,28,2011-06-21 13:54:12+00:00,1.7586206896551724
+IsFilimonov,Ilia Filimonov,,"Moscow, Russian Federation",,True,"Data Warehouse, Business Intelligence: Data Enthusiast. Formerly team lead SAP BI\BW and later consultant in consulting. Footballer. Satirist. ",12,51,3,2017-03-08 16:47:09+00:00,12.75
+thekvs,Konstantin Sorokin,,"Moscow, Russia",kvs@sigterm.ru,True,,49,51,5,2010-03-07 17:07:25+00:00,8.5
 VTroyanGolovyan,vhdev,MOSCOW INSTITUTE OF PHYSICS AND TECHNOLOGY,Moscow,,True," C++ developer. 
 
-",28,51,30,2017-07-22T15:39:00Z
-gregor-tokarev,Gregor ,PROCOLLAB,Moscow,e@tokarev.work,True,20 y.o SWE,41,51,21,2019-07-01T05:07:15Z
-DKunin,Dmitri Kunin,AVITO,"Russia, Moscow",,,Technical Unit Leader / Javascript developer at Avito,157,51,200,2011-08-22T18:22:12Z
-antonydevanchi,Anton Piskunov,"PSKNV, @KONSOLPRO","Russia, Moscow",anton@piskunov.email,True,CISO at @konsolpro and self-employed at @PSKNV,159,51,168,2011-02-10T03:49:53Z
+",28,51,30,2017-07-22 15:39:00+00:00,1.6451612903225807
+gregor-tokarev,Gregor ,PROCOLLAB,Moscow,e@tokarev.work,True,20 y.o SWE,41,51,21,2019-07-01 05:07:15+00:00,2.3181818181818183
+DKunin,Dmitri Kunin,AVITO,"Russia, Moscow",,False,Technical Unit Leader / Javascript developer at Avito,157,51,200,2011-08-22 18:22:12+00:00,0.2537313432835821
+antonydevanchi,Anton Piskunov,"PSKNV, @KONSOLPRO","Russia, Moscow",anton@piskunov.email,True,CISO at @konsolpro and self-employed at @PSKNV,159,51,168,2011-02-10 03:49:53+00:00,0.30177514792899407
